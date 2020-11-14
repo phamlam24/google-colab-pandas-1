@@ -1,0 +1,1553 @@
+STT,Giới tính sinh học,Bản dạng giới,Hấp dẫn tình cảm,Đối tượng hấp dẫn tình dục,Xu hướng tính dục (lần 1),Bạn có muốn xác định rõ thêm cho xu hướng tình cảm ,Bạn có thể bắt đầu mối quan hệ tình cảm với người chưa quen biết nhiều hay không?,Bạn có thể lâu lâu có hứng bắt đầu một mối quan hệ tình cảm một lần không?,Bạn nghĩ bạn được hấp dẫn tình cảm bởi bao nhiêu giới?,"Bạn có ""mù giới"" (tức không để ý giới và giới tính của đối phương) khi bắt đầu một mối quan hệ hay không?",Bạn có muốn xác định rõ thêm cho xu hướng tình dục?,Bạn có thể quan hệ tình dục với người chưa quen biết nhiều hay không?,Bạn có thể lâu lâu có hứng quan hệ tình dục một lần không?,Bạn nghĩ bạn được hấp dẫn tình dục bởi bao nhiêu giới?,"Bạn có ""mù giới"" (tức không để ý giới và giới tính của đối phương) khi quan hệ tình dục hay không?",Xu hướng tính dục
+1,Nam ,Nam,Không,Không,Vô tính,Có,Không,Có,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Á tính
+2,Nam ,Nam,Không,Không,Vô tính,Có,Không,Không,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Vô tính
+3,Nam ,Nam,Không,Không,Vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Bán vô tính
+4,Nam ,Nam,Không,Không,Vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Bán vô tính
+5,Nam ,Nam,Không,Không,Vô tính,Có,Có,Không,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Vô tính
+6,Nam ,Nam,Không,Không,Vô tính,Có,Có,Có,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Bán vô tính
+7,Nam ,Nam,Không,Không,Vô tính,Có,Không,Có,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Á tính vô tính
+8,Nam ,Nam,Không,Không,Vô tính,Có,Không,Có,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Bán vô tính
+9,Nam ,Nam,Không,Không,Vô tính,Có,Không,Có,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Á ái vô tính
+10,Nam ,Nam,Không,Không,Vô tính,Có,Không,Có,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Á ái vô tính
+11,Nam ,Nam,Không,Không,Vô tính,Có,Không,Có,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Á ái bán vô tính
+12,Nam ,Nam,Không,Không,Vô tính,Có,Không,Không,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,á tính 
+13,Nam ,Nam,Không,Không,Vô tính,Có,Không,Không,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Á ái bán vô tính
+14,Nam ,Nam,Không,Không,Vô tính,Có,Không,Không,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Á ái vô tính
+15,Nam ,Nam,Không,Không,Vô tính,Có,Không,Không,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Á ái vô tính
+16,Nam ,Nam,Không,Không,Vô tính,Có,Không ,Không,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Á ái bán vô tính
+17,Nam ,Nam,Không,Không,Vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Bán vô ái á tính
+18,Nam ,Nam,Không,Không,Vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Bán vô ái á tính
+19,Nam ,Nam,Không,Không,Vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Bán vô ái vô tính
+20,Nam ,Nam,Không,Không,Vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Bán vô ái vô tính
+21,Nam ,Nam,Không,Không,Vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Bán vô tính
+22,Nam ,Nam,Không,Không,Vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Vô ái á tính
+23,Nam ,Nam,Không,Không,Vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Vô ái á tính
+24,Nam ,Nam,Không,Không,Vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Vô ái bán vô tính
+25,Nam ,Nam,Không,Không,Vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Vô tính
+26,Nam ,Nam,Không,Không,Vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Vô ái bán vô tính
+27,Nam ,Nam,Không,Không,Vô tính,Có,Có,Không,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Vô ái á tính
+28,Nam ,Nam,Không,Không,Vô tính,Có,Có,Không,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Vô ái á tính
+29,Nam ,Nam,Không,Không,Vô tính,Có,Có,Không,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Vô ái bán vô tính
+30,Nam ,Nam,Không,Không,Vô tính,Có,Có,Không,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Vô tính
+31,Nam ,Nam,Không,Không,Vô tính,Có,Có,Không,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Vô ái bán vô tính
+32,Nam ,Nam,Không,Không,Vô tính,Có,Có,Có,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Bán vô ái á tính
+33,Nam ,Nam,Không,Không,Vô tính,Có,Có,Có,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Bán vô ái á tính
+34,Nam ,Nam,Không,Không,Vô tính,Có,Có,Có,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Bán vô tính
+35,Nam ,Nam,Không,Không,Vô tính,Có,Có,Có,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Bán vô ái vô tính
+36,Nam ,Nam,Không,Không,Vô tính,Có,Có,Có,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Bán vô ái vô tính
+37,Nam ,Nam,Không,Không,Vô tính,Có,Không,Có,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Á ái vô tính
+38,Nam ,Nam,Không,Không,Vô tính,Có,Không,Không,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Á ái vô tính
+39,Nam ,Nam,Không,Không,Vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái vô tính
+40,Nam ,Nam,Không,Không,Vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Vô tính
+41,Nam ,Nam,Không,Không,Vô tính,Có,Có,Không,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Vô tính
+42,Nam ,Nam,Không,Không,Vô tính,Có,Có,Có,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái vô tính
+43,Nam ,Nam,Không,Không,Vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Vô ái á tính
+44,Nam ,Nam,Không,Không,Vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Vô ái á tính
+45,Nam ,Nam,Không,Không,Vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Vô ái bán vô tính
+46,Nam ,Nam,Không,Không,Vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Vô tính
+47,Nam ,Nam,Không,Không,Vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Vô tính
+48,Nam ,Nam,Không,Không,Vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Vô ái bán vô tính
+49,Nam ,Nam,Không,Không,Vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Vô tính
+50,Nam ,Nam,Không,Nữ,Vô ái dị tính,Có,Không,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái dị tính
+51,Nam ,Nam,Không,Nữ,Vô ái dị tính,Có,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái dị tính
+52,Nam ,Nam,Không,Nữ,Vô ái dị tính,Có,Không hẳn,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái dị tính
+53,Nam ,Nam,Không,Nữ,Vô ái dị tính,Có,Không hẳn,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái dị tính
+54,Nam ,Nam,Không,Nữ,Vô ái dị tính,Có,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái dị tính
+55,Nam ,Nam,Không,Nữ,Vô ái dị tính,Có,Có,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái dị tính
+56,Nam ,Nam,Không,Nữ,Vô ái dị tính,không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái dị tính
+57,Nam ,Nam,Không,Nam,Vô ái đồng tính,Có,Không,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái đồng tính
+58,Nam ,Nam,Không,Nam,Vô ái đồng tính,Có,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái đồng tính
+59,Nam ,Nam,Không,Nam,Vô ái đồng tính,Có,Không hẳn,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái đồng tính
+60,Nam ,Nam,Không,Nam,Vô ái đồng tính,Có,Không hẳn,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái đồng tính
+61,Nam ,Nam,Không,Nam,Vô ái đồng tính,Có,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái đồng tính
+62,Nam ,Nam,Không,Nam,Vô ái đồng tính,Có,Có,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái đồng tính
+63,Nam ,Nam,Không,Nam,Vô ái đồng tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái đồng tính
+64,Nam ,Nam,Không,Nam và Nữ,Vô ái song tính,Có,Không,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái song tính
+65,Nam ,Nam,Không,Nam và Nữ,Vô ái song tính,Có,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái song tính
+66,Nam ,Nam,Không,Nam và Nữ,Vô ái song tính,Có,Không hẳn,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái song tính
+67,Nam ,Nam,Không,Nam và Nữ,Vô ái song tính,Có,Không hẳn,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+68,Nam ,Nam,Không,Nam và Nữ,Vô ái song tính,Có,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+69,Nam ,Nam,Không,Nam và Nữ,Vô ái song tính,Có,Có,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái song tính
+70,Nam ,Nam,Không,Nam và Nữ,Vô ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+71,Nam ,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái song tính
+72,Nam ,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái song tính
+73,Nam ,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái song tính
+74,Nam ,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+75,Nam ,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+76,Nam ,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Có,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái song tính
+77,Nam ,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+78,Nam ,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái song tính
+79,Nam ,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái song tính
+80,Nam ,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái song tính
+81,Nam ,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+82,Nam ,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+83,Nam ,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Có,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái song tính
+84,Nam ,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+85,Nam ,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái song tính
+86,Nam ,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái song tính
+87,Nam ,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái song tính
+88,Nam ,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+89,Nam ,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+90,Nam ,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Có,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái song tính
+91,Nam ,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+92,Nam ,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái song tính
+93,Nam ,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái song tính
+94,Nam ,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái song tính
+95,Nam ,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+96,Nam ,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+97,Nam ,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Có,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái song tính
+98,Nam ,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+99,Nam ,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái song tính
+100,Nam ,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái song tính
+101,Nam ,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái song tính
+102,Nam ,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+103,Nam ,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+104,Nam ,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Có,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái song tính
+105,Nam ,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+106,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Có,Bỏ,Bỏ,không,không,không,Bỏ,Bỏ,Á ái toàn tính
+107,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Không,Bỏ,Bỏ,không,không,không,Bỏ,Bỏ,Á ái toàn tính
+108,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Có,Bỏ,Bỏ,không,không,không,Bỏ,Bỏ,Bán vô ái toàn tính
+109,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Không,Bỏ,Bỏ,không,không,không,Bỏ,Bỏ,Vô ái toàn tính
+110,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Có,Không,Bỏ,Bỏ,không,không,không,Bỏ,Bỏ,Vô ái toàn tính
+111,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Có,Có,Bỏ,Bỏ,không,không,không,Bỏ,Bỏ,Bán vô ái toàn  tính
+112,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Tất cả các giới,Có,Vô ái toàn tính (mù giới)
+113,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Tất cả các giới,Không,Vô ái toàn tính (không mù giới)
+114,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Nhiều hơn hai giới,Bỏ,Vô ái đa tính
+115,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ ,Bỏ,Bỏ,Vô ái toàn tính
+116,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Á ái toàn tính (mù giới)
+117,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Á ái toàn tính (không mù giới)
+118,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Á ái đa tính
+119,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Á ái toàn tính (mù giới)
+120,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Á ái toàn tính (không mù giới)
+121,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Á ái đa tính
+122,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Bán vô ái toàn tính (mù giới)
+123,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Bán vô ái toàn tính (không mù giới)
+124,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Bán vô ái đa tính
+125,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Vô ái toàn tính (mù giới)
+126,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Vô ái toàn tính (không mù giới)
+127,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Vô ái đa tính
+128,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Có,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Vô ái toàn tính (mù giới)
+129,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Có,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Vô ái toàn tính (không mù giới)
+130,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Có,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Vô ái đa tính
+131,Nam ,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Có,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Bán vô ái toàn tính (mù giới)
+132,Nam ,Nam,Nữ,Không ,Dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Dị ái á tính
+133,Nam ,Nam,Nữ,Không ,Dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Dị ái á tính
+134,Nam ,Nam,Nữ,Không ,Dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Dị ái bán vô tính
+135,Nam ,Nam,Nữ,Không ,Dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Dị ái vô tính
+136,Nam ,Nam,Nữ,Không ,Dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Dị ái vô tính
+137,Nam ,Nam,Nữ,Không ,Dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Dị ái bán vô tính
+138,Nam ,Nam,Nữ,Không ,Dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Dị ái vô tính
+139,Nam ,Nam,Nam,Không ,Đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Đồng ái á tính
+140,Nam ,Nam,Nam,Không ,Đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Đồng ái ái á tính
+141,Nam ,Nam,Nam,Không ,Đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Đồng ái bán vô tính
+142,Nam ,Nam,Nam,Không ,Đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Đồng ái vô tính
+143,Nam ,Nam,Nam,Không ,Đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Đồng ái vô tính
+144,Nam ,Nam,Nam,Không ,Đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Đồng ái bán vô tính
+145,Nam ,Nam,Nam,Không ,Đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Đồng ái vô tính
+146,Nam ,Nam,Nam và Nữ,Không ,Song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Song ái á tính
+147,Nam ,Nam,Nam và Nữ,Không ,Song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Song ái ái á tính
+148,Nam ,Nam,Nam và Nữ,Không ,Song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Song ái bán vô tính
+149,Nam ,Nam,Nam và Nữ,Không ,Song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Song ái vô tính
+150,Nam ,Nam,Nam và Nữ,Không ,Song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Song ái vô tính
+151,Nam ,Nam,Nam và Nữ,Không ,Song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Song ái bán vô tính
+152,Nam ,Nam,Nam và Nữ,Không ,Song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Song ái vô tính
+153,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Toàn ái á tính
+154,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Toàn ái ái á tính
+155,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Toàn ái bán vô tính
+156,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Toàn ái vô tính
+157,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Toàn ái vô tính
+158,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Toàn ái bán vô tính
+159,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Toàn ái vô tính
+160,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Không,,,Bỏ,Bỏ,Toàn ái (mù giới) vô tính
+161,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Không,,,Bỏ,Bỏ,Toàn ái (không mù giới) vô tính
+162,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Không,,,Bỏ,Bỏ,Đa ái vô tính
+163,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Không,Có,Bỏ,Bỏ,Toàn ái (mù giới) á tính
+164,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Không,Không,Bỏ,Bỏ,Toàn ái (mù giới) á tính
+165,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Không hẳn,Có,Bỏ,Bỏ,Toàn ái (mù giới) bán vô tính
+166,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Không hẳn,Không,Bỏ,Bỏ,Toàn ái (mù giới) vô tính
+167,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Có,Không,Bỏ,Bỏ,Toàn ái (mù giới) vô tính
+168,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Có,Có,Bỏ,Bỏ,Toàn ái (mù giới) bán vô tính
+169,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Không,Có,Bỏ,Bỏ,Toàn ái (không mù giới) á tính
+170,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Không,Không,Bỏ,Bỏ,Toàn ái (không mù giới) á tính
+171,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Không hẳn,Có,Bỏ,Bỏ,Toàn ái (không mù giới) bán vô tính
+172,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Không hẳn,Không,Bỏ,Bỏ,Toàn ái (không mù giới) vô tính
+173,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Có,Không,Bỏ,Bỏ,Toàn ái (không mù giới) vô tính
+174,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Có,Có,Bỏ,Bỏ,Toàn ái (không mù giới) bán vô tính
+175,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Không,Có,Bỏ,Bỏ,Đa ái á tính
+176,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Không,Không,Bỏ,Bỏ,Đa ái á tính
+177,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Đa ái bán vô tính
+178,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Đa ái vô tính
+179,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Có,Không,Bỏ,Bỏ,Đa ái vô tính
+180,Nam ,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Có,Có,Bỏ,Bỏ,Đa ái bán vô tính
+181,Nam ,Nam,Nữ,Nữ,Dị tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Dị tính
+182,Nam ,Nam,Nữ,Nam,Dị ái đồng tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Dị ái đồng tính
+183,Nam ,Nam,Nữ,Nam và Nữ,Dị ái song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Dị ái song tính
+184,Nam ,Nam,Nữ,Nam và giới khác (2 giới),Dị ái song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Dị ái song tính
+185,Nam ,Nam,Nữ,Nữ và giới khác (2 giới),Dị ái song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Dị ái song tính
+186,Nam ,Nam,Nữ,Nhiều hơn hai giới ,Dị ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Dị ái toàn tính (mù giới)
+187,Nam ,Nam,Nữ,Nhiều hơn hai giới ,Dị ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Dị ái toàn tính (không mù giới)
+188,Nam ,Nam,Nữ,Nhiều hơn hai giới ,Dị ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Dị ái đa tính
+189,Nam ,Nam,Nữ,Nhiều hơn hai giới ,Dị ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Dị ái toàn tính
+190,Nam ,Nam,Nam,Nữ,Đống ái dị tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Đống ái dị tính
+191,Nam ,Nam,Nam,Nam,Đồng tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Đồng tính
+192,Nam ,toàn,Nam,Nam và Nữ,Đồng ái song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Đồng ái song tính
+193,Nam ,Nam,Nam,Nam và giới khác (2 giới),Đồng ái song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Đồng ái song tính
+194,Nam ,Nam,Nam,Nữ và giới khác (2 giới),Đồng ái song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Đồng ái song tính
+195,Nam ,Nam,Nam,Nhiều hơn hai giới ,Đồng ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,có,Bỏ,Bỏ,Tất cả các giới,Có,Đồng ái toàn tính (mù giới)
+196,Nam ,Nam,Nam,Nhiều hơn hai giới ,Đồng ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,có,Bỏ,Bỏ,Tất cả các giới,Không,Đồng ái toàn tính (không mù giới)
+197,Nam ,Nam,Nam,Nhiều hơn hai giới ,Đồng ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Đồng ái đa tính
+198,Nam ,Nam,Nam,Nhiều hơn hai giới ,Đồng ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Đồng ái toàn tính (không mù giới)
+199,Nam ,Nam,Nam và Nữ,Nữ,Song ái dị tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song ái dị tính
+200,Nam ,Nam,Nam và Nữ,Nam,Song ái đồng tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song ái đồng tính
+201,Nam ,Nam,Nam và Nữ,Nam và Nữ,Song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song tính
+202,Nam ,Nam,Nam và Nữ,Nam và giới khác (2 giới),Song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song tính
+203,Nam ,Nam,Nam và Nữ,Nữ và giới khác (2 giới),Song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song tính
+204,Nam ,Nam,Nam và Nữ,Nhiều hơn hai giới ,Song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Song ái toàn tính (mù giới)
+205,Nam ,Nam,Nam và Nữ,Nhiều hơn hai giới ,Song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Song ái toàn tính (không mù giới)
+206,Nam ,Nam,Nam và Nữ,Nhiều hơn hai giới ,Song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Đa ái toàn tính
+207,Nam ,Nam,Nam và Nữ,Nhiều hơn hai giới ,Song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Song ái toàn tính
+208,Nam ,Nam,Nam và giới khác (2 giới),Nữ,Song ái dị tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song ái dị tính
+209,Nam ,Nam,Nam và giới khác (2 giới),Nam,Song ái đồng tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song ái đồng tính
+210,Nam ,Nam,Nam và giới khác (2 giới),Nam và Nữ,Song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song tính
+211,Nam ,Nam,Nam và giới khác (2 giới),Nam và giới khác (2 giới),Song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song tính
+212,Nam ,Nam,Nam và giới khác (2 giới),Nữ và giới khác (2 giới),Song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song tính
+213,Nam ,Nam,Nam và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Tất cả các giới,Có,Bỏ,Bỏ,Song ái toàn tính (mù giới)
+214,Nam ,Nam,Nam và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Tất cả các giới,Không,Bỏ,Bỏ,Song ái toàn tính (không mù giới)
+215,Nam ,Nam,Nam và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Nhiều hơn hai giới,Bỏ,Bỏ,Bỏ,Đa ái toàn tính
+216,Nam ,Nam,Nam và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Song ái toàn tính
+217,Nam ,Nam,Nữ và giới khác (2 giới),Nữ,Song ái dị tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song ái dị tính
+218,Nam ,Nam,Nữ và giới khác (2 giới),Nam,Song ái đồng tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song ái đồng tính
+219,Nam ,Nam,Nữ và giới khác (2 giới),Nam và Nữ,Song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song tính
+220,Nam ,Nam,Nữ và giới khác (2 giới),Nam và giới khác (2 giới),Song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song tính
+221,Nam ,Nam,Nữ và giới khác (2 giới),Nữ và giới khác (2 giới),Song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song tính
+222,Nam ,Nam,Nữ và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Tất cả các giới,Có,Bỏ,Bỏ,Song ái toàn tính (mù giới)
+223,Nam ,Nam,Nữ và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Tất cả các giới,Không,Bỏ,Bỏ,Song ái toàn tính (không mù giới)
+224,Nam ,Nam,Nữ và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Nhiều hơn hai giới,Bỏ,Bỏ,Bỏ,Đa ái toàn tính
+225,Nam ,Nam,Nữ và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Song ái toàn tính
+226,Nam ,Nam,Nhiều hơn hai giới ,Nữ,Toàn ái dị tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái (mù giới) dị tính
+227,Nam ,Nam,Nhiều hơn hai giới ,Nữ,Toàn ái dị tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái (không mù giới) dị tính
+228,Nam ,Nam,Nhiều hơn hai giới ,Nữ,Toàn ái dị tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Đa ái dị tính
+229,Nam ,Nam,Nhiều hơn hai giới ,Nữ,Toàn ái dị tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái dị tính
+230,Nam ,Nam,Nhiều hơn hai giới ,Nam,Toàn ái đồng tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái (mù giới) đồng tính
+231,Nam ,Nam,Nhiều hơn hai giới ,Nam,Toàn ái đồng tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái (không mù giới) đồng tính
+232,Nam ,Nam,Nhiều hơn hai giới ,Nam,Toàn ái đồng tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Đa ái đồng tính
+233,Nam ,Nam,Nhiều hơn hai giới ,Nam,Toàn ái đồng tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái đồng tính
+234,Nam ,Nam,Nhiều hơn hai giới ,Nam và Nữ,Toàn ái song tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái (mù giới) song tính
+235,Nam ,Nam,Nhiều hơn hai giới ,Nam và Nữ,Toàn ái song tính,Có ,Bỏ,Bỏ,Tất cả các giới,Không,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái (không mù giới) song tính
+236,Nam ,Nam,Nhiều hơn hai giới ,Nam và Nữ,Toàn ái song tính,có ,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Đa ái song tính
+237,Nam ,Nam,Nhiều hơn hai giới ,Nam và giới khác (2 giới),Toàn ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái song tính
+238,Nam ,Nam,Nhiều hơn hai giới ,Nam và giới khác (2 giới),Toàn ái song tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái (mù giới) song tính
+239,Nam ,Nam,Nhiều hơn hai giới ,Nam và giới khác (2 giới),Toàn ái song tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái (không mù giới) song tính
+240,Nam ,Nam,Nhiều hơn hai giới ,Nam và giới khác (2 giới),Toàn ái song tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Đa ái song tính
+241,Nam ,Nam,Nhiều hơn hai giới ,Nữ và giới khác (2 giới),Toàn ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái song tính
+242,Nam ,Nam,Nhiều hơn hai giới ,Nữ và giới khác (2 giới),Toàn ái song tính,Có ,Bỏ,Bỏ,Tất cả các giới,Có,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái (mù giới) song tính
+243,Nam ,Nam,Nhiều hơn hai giới ,Nữ và giới khác (2 giới),Toàn ái song tính,Có ,Bỏ,Bỏ,Tất cả các giới,Không,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái (không mù giới) song tính
+244,Nam ,Nam,Nhiều hơn hai giới ,Nữ và giới khác (2 giới),Toàn ái song tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Đa ái song tính
+245,Nam ,Nam,Nhiều hơn hai giới ,Nữ và giới khác (2 giới),Toàn ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái song tính
+246,Nam ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có ,Bỏ,Bỏ,Tất cả các giới,Có,Có,Bỏ,Bỏ,Tất cả các giới,Có,Toàn tính (mù giới)
+247,Nam ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có ,Bỏ,Bỏ,Tất cả các giới,Có,Có,Bỏ,Bỏ,Tất cả các giới,Không,Toàn ái (mù giới) toàn tính (không mù giới)
+248,Nam ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Toàn ái đa tính
+249,Nam ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có ,Bỏ,Bỏ,Tất cả các giới,Không,Có,Bỏ,Bỏ,Tất cả các giới,Có,Toàn ái  (không mù giới) toàn tính (mù giới)
+250,Nam ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Bỏ,Bỏ,Tất cả các giới,Không,Toàn ái toàn tính (không mù giới)
+251,Nam ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Không,Bỏ,Bỏ,Tất cả các giới,Không,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Toàn ái (không mù giới) đa tính
+252,Nam ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có ,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Đa ái toàn tính (mù giới)
+253,Nam ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có ,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Đa ái toàn tính (không mù giới)
+254,Nam ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Đa tính
+255,Nam ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn tính
+256,Nam ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Toán ái (mù giới) toàn tính
+257,Nam ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái (không mù giới) toàn tính
+258,Nam ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Đa ái toàn tính
+259,Nam ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Toàn ái toàn tính (không mù giới)
+260,Nam ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Toàn ái đa tính
+261,Nam ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Toàn ái toàn tính (mù giới)
+262,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không,Có,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nữ á tính 
+263,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không,Không,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nữ á tính 
+264,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nữ bán vô tính
+265,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nữ vô tính
+266,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Có,Không,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nữ vô tính
+267,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Có,Có,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nữ bán vô tính
+268,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không,Có,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nữ á tính 
+269,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không,Có,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nữ á ái bán vô tính
+270,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không,Có,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nữ á ái vô tính
+271,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không,Có,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nữ á ái vô tính
+272,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không,Có,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nữ á ái bán vô tính
+273,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không,Không,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nữ á tính 
+274,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không,Không,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nữ á ái bán vô tính
+275,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không,Không,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nữ á ái vô tính
+276,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không,Không,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nữ á ái vô tính
+277,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không ,Không,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nữ á ái bán vô tính
+278,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nữ bán vô ái á tính
+279,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nữ bán vô ái á tính
+280,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nữ bán vô ái vô tính
+281,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nữ bán vô ái vô tính
+282,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nữ bán vô tính
+283,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nữ vô ái á tính
+284,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nữ vô ái á tính
+285,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nữ vô ái bán vô tính
+286,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nữ vô tính
+287,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nữ vô ái bán vô tính
+288,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Có,Không,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nữ vô ái á tính
+289,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Có,Không,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nữ vô ái á tính
+290,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Có,Không,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,chuyển giới Nữ vô ái bán vô tính
+291,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Có,Không,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nữ vô tính
+292,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Có,Không,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nữ vô ái bán vô tính
+293,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Có,Có,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nữ bán vô ái á tính
+294,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Có,Có,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nữ bán vô ái á tính
+295,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Có,Có,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nữ bán vô tính
+296,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Có,Có,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nữ bán vô ái vô tính
+297,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Có,Có,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nữ bán vô ái vô tính
+298,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không,Có,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ á ái vô tính
+299,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không,Không,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyến giới Nữ á ái vô tính
+300,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ bán vô ái vô tính
+301,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ vô tính
+302,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Có,Không,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ vô tính
+303,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Có,Có,Có,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ bán vô ái vô tính
+304,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nữ vô ái á tính
+305,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nữ vô ái á tính
+306,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nữ vô ái bán vô tính
+307,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nữ vô tính
+308,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nữ vô tính
+309,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nữ vô ái bán vô tính
+310,Nam ,Nữ,Không,Không,Chuyển giới Nữ vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ ô tính
+311,Nam ,Nữ,Không,Nữ,Chuyển giới Nữ vô ái đồng tính,Có,Không,Có,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ á ái đồng tính
+312,Nam ,Nữ,Không,Nữ,Chuyển giới Nữ vô ái đồng tính,Có,Không,Không,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Á ái đồng tính
+313,Nam ,Nữ,Không,Nữ,Chuyển giới Nữ vô ái đồng tính,Có,Không hẳn,Có,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ bán vô ái đồng tính
+314,Nam ,Nữ,Không,Nữ,Chuyển giới Nữ vô ái đồng tính,Có,Không hẳn,Không,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ vô ái đồng tính
+315,Nam ,Nữ,Không,Nữ,Chuyển giới Nữ vô ái đồng tính,Có,Có,Không,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ vô ái đồng tính
+316,Nam ,Nữ,Không,Nữ,Chuyển giới Nữ vô ái đồng tính,Có,Có,Có,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ bán vô ái đồng tính
+317,Nam ,Nữ,Không,Nữ,Chuyển giới Nữ vô ái đồng tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ vô ái đồng tính
+318,Nam ,Nữ,Không,Nam,Chuyển giới Nữ vô ái dị tính,Có,Không,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ á ái dị tính
+319,Nam ,Nữ,Không,Nam,Chuyển giới Nữ vô ái dị tính,Có,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ á ái dị tính
+320,Nam ,Nữ,Không,Nam,Chuyển giới Nữ vô ái dị tính,Có,Không hẳn,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ bán vô ái dị tính
+321,Nam ,Nữ,Không,Nam,Chuyển giới Nữ vô ái dị tính,Có,Không hẳn,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ vô ái dị tính
+322,Nam ,Nữ,Không,Nam,Chuyển giới Nữ vô ái dị tính,Có,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ vô ái dị tính
+323,Nam ,Nữ,Không,Nam,Chuyển giới Nữ vô ái dị tính,Có,Có,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ bán vô ái dị tính
+324,Nam ,Nữ,Không,Nam,Chuyển giới Nữ vô ái dị tính,không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ vô ái dị tính
+325,Nam ,Nữ,Không,Nam và Nữ,Chuyển giới Nữ vô ái song tính,Có,Không,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ á ái song tính
+326,Nam ,Nữ,Không,Nam và Nữ,Chuyển giới Nữ vô ái song tính,Có,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ á ái song tính
+327,Nam ,Nữ,Không,Nam và Nữ,Chuyển giới Nữ vô ái song tính,Có,Không hẳn,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ bán vô ái song tính
+328,Nam ,Nữ,Không,Nam và Nữ,Chuyển giới Nữ vô ái song tính,Có,Không hẳn,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ vô ái song tính
+329,Nam ,Nữ,Không,Nam và Nữ,Chuyển giới Nữ vô ái song tính,Có,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ vô ái song tính
+330,Nam ,Nữ,Không,Nam và Nữ,Chuyển giới Nữ vô ái song tính,Có,Có,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ bán vô ái song tính
+331,Nam ,Nữ,Không,Nam và Nữ,Chuyển giới Nữ vô ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ vô ái song tính
+332,Nam ,Nữ,Không,Nam và giới khác (2 giới),Chuyển giới Nữ vô ái song tính,Có,Không,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ á ái song tính
+333,Nam ,Nữ,Không,Nam và giới khác (2 giới),Chuyển giới Nữ vô ái song tính,Có,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ á ái song tính
+334,Nam ,Nữ,Không,Nam và giới khác (2 giới),Chuyển giới Nữ vô ái song tính,Có,Không hẳn,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ bán vô ái song tính
+335,Nam ,Nữ,Không,Nam và giới khác (2 giới),Chuyển giới Nữ vô ái song tính,Có,Không hẳn,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ vô ái song tính
+336,Nam ,Nữ,Không,Nam và giới khác (2 giới),Chuyển giới Nữ vô ái song tính,Có,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ vô ái song tính
+337,Nam ,Nữ,Không,Nam và giới khác (2 giới),Chuyển giới Nữ vô ái song tính,Có,Có,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ bán vô ái song tính
+338,Nam ,Nữ,Không,Nam và giới khác (2 giới),Chuyển giới Nữ vô ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ vô ái song tính
+339,Nam ,Nữ,Không,Nữ và giới khác (2 giới),Chuyển giới Nữ vô ái song tính,Có,Không,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ á ái song tính
+340,Nam ,Nữ,Không,Nữ và giới khác (2 giới),Chuyển giới Nữ vô ái song tính,Có,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ á ái song tính
+341,Nam ,Nữ,Không,Nữ và giới khác (2 giới),Chuyển giới Nữ vô ái song tính,Có,Không hẳn,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ bán vô ái song tính
+342,Nam ,Nữ,Không,Nữ và giới khác (2 giới),Chuyển giới Nữ vô ái song tính,Có,Không hẳn,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ vô ái song tính
+343,Nam ,Nữ,Không,Nữ và giới khác (2 giới),Chuyển giới Nữ vô ái song tính,Có,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ vô ái song tính
+344,Nam ,Nữ,Không,Nữ và giới khác (2 giới),Chuyển giới Nữ vô ái song tính,Có,Có,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ bán vô ái song tính
+345,Nam ,Nữ,Không,Nữ và giới khác (2 giới),Chuyển giới Nữ vô ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ vô ái song tính
+346,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Có,Không,Có,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ á ái toàn tính
+347,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Có,Không,Không,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ á ái toàn tính
+348,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Có,Không hẳn,Có,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ bán vô ái toàn tính
+349,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Có,Không hẳn,Không,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ vô ái toàn tính
+350,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Có,Có,Không,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ vô ái toàn tính
+351,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Có,Có,Có,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ bán vô ái toàn  tính
+352,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Chuyển giới Nữ vô ái toàn tính (mù giới)
+353,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Chuyển giới Nữ vô ái toàn tính (không mù giới)
+354,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Chuyển giới Nữ vô ái đa tính
+355,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ ,Bỏ,Bỏ,Chuyển giới Nữ vô ái toàn tính
+356,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Có,Không,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Tất cả các giới,Có,Chuyển giới Nữ á ái toàn tính (mù giới)
+357,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Có,Không,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Tất cả các giới,Không,Chuyển giới Nữ á ái toàn tính (không mù giới)
+358,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Có,Không,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Nhiều hơn hai giới,Bỏ,Chuyển giới Nữ á ái đa tính
+359,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Có,Không,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Tất cả các giới,Có,Chuyển giới Nữ á ái toàn tính (mù giới)
+360,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Có,Không,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Tất cả các giới,Không,Chuyển giới Nữ á ái toàn tính (không mù giới)
+361,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Có,Không,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Nhiều hơn hai giới,Bỏ,Chuyển giới Nữ á ái đa tính
+362,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Tất cả các giới,Có,chuyển giới Nữ bán vô ái toàn tính (mù giới)
+363,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Tất cả các giới,Không,Chuyển giới Nữ bán vô ái toàn tính (không mù giới)
+364,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Nhiều hơn hai giới,Bỏ,Chuyển giới Nữ bán vô ái đa tính
+365,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Tất cả các giới,Có,Chuyển giới Nữ vô ái toàn tính (mù giới)
+366,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Tất cả các giới,Không,Chuyển giới Nữ vô ái toàn tính (không mù giới)
+367,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Nhiều hơn hai giới,Bỏ,Chuyển giới Nữ vô ái đa tính
+368,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Có,Có,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Tất cả các giới,Có,Chuyển giới Nữ vô ái toàn tính (mù giới)
+369,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Có,Có,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Tất cả các giới,Không,Chuyển giới Nữ vô ái toàn tính (không mù giới)
+370,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Có,Có,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Nhiều hơn hai giới,Bỏ,Chuyển giới Nữ vô ái đa tính
+371,Nam ,Nữ,Không,Nhiều hơn hai giới ,Chuyển giới Nữ vô ái toàn tính,Có,Có,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Tất cả các giới,Có,Chuyển giới Nữ bán vô ái toàn tính (mù giới)
+372,Nam ,Nữ,Nữ,Không,Chuyển giới Nữ đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nữ đồng ái á tính
+373,Nam ,Nữ,Nữ,Không,Chuyển giới Nữ đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nữ đồng ái ái á tính
+374,Nam ,Nữ,Nữ,Không,Chuyển giới Nữ đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nữ đồng ái bán vô tính
+375,Nam ,Nữ,Nữ,Không,Chuyển giới Nữ đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nữ đồng ái vô tính
+376,Nam ,Nữ,Nữ,Không,Chuyển giới Nữ đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nữ đồng ái vô tính
+377,Nam ,Nữ,Nữ,Không,Chuyển giới Nữ đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nữ đồng ái bán vô tính
+378,Nam ,Nữ,Nữ,Không,Chuyển giới Nữ đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Chuyển giới Nữ đồng ái vô tính
+379,Nam ,Nữ,Nam,Không,Chuyển giới Nữ dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nữ dị ái á tính
+380,Nam ,Nữ,Nam,Không,Chuyển giới Nữ dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nữ dị ái á tính
+381,Nam ,Nữ,Nam,Không,Chuyển giới Nữ dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nữ dị ái bán vô tính
+382,Nam ,Nữ,Nam,Không,Chuyển giới Nữ dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nữ dị ái vô tính
+383,Nam ,Nữ,Nam,Không,Chuyển giới Nữ dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nữ dị ái vô tính
+384,Nam ,Nữ,Nam,Không,Chuyển giới Nữ dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nữ dị ái bán vô tính
+385,Nam ,Nữ,Nam,Không,Chuyển giới Nữ dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Chuyển giới Nữ dị ái vô tính
+386,Nam ,Nữ,Nam và Nữ,Không,Chuyển giới Nữ song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nữ song ái á tính
+387,Nam ,Nữ,Nam và Nữ,Không,Chuyển giới Nữ song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nữ song ái ái á tính
+388,Nam ,Nữ,Nam và Nữ,Không,Chuyển giới Nữ song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nữ song ái bán vô tính
+389,Nam ,Nữ,Nam và Nữ,Không,Chuyển giới Nữ song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nữ song ái vô tính
+390,Nam ,Nữ,Nam và Nữ,Không,Chuyển giới Nữ song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nữ song ái vô tính
+391,Nam ,Nữ,Nam và Nữ,Không,Chuyển giới Nữ song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nữ song ái bán vô tính
+392,Nam ,Nữ,Nam và Nữ,Không,Chuyển giới Nữ song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Chuyển giới Nữ song ái vô tính
+393,Nam ,Nữ,Nam và giới khác (2 giới),Không,Chuyển giới Nữ song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nữ song ái á tính
+394,Nam ,Nữ,Nam và giới khác (2 giới),Không,Chuyển giới Nữ song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nữ song ái ái á tính
+395,Nam ,Nữ,Nam và giới khác (2 giới),Không,Chuyển giới Nữ song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nữ song ái bán vô tính
+396,Nam ,Nữ,Nam và giới khác (2 giới),Không,Chuyển giới Nữ song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nữ song ái vô tính
+397,Nam ,Nữ,Nam và giới khác (2 giới),Không,Chuyển giới Nữ song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nữ song ái vô tính
+398,Nam ,Nữ,Nam và giới khác (2 giới),Không,Chuyển giới Nữ song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nữ song ái bán vô tính
+399,Nam ,Nữ,Nam và giới khác (2 giới),Không,Chuyển giới Nữ song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Chuyển giới Nữ song ái vô tính
+400,Nam ,Nữ,Nữ và giới khác (2 giới),Không,Chuyển giới Nữ song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nữ song ái á tính
+401,Nam ,Nữ,Nữ và giới khác (2 giới),Không,Chuyển giới Nữ song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nữ song ái ái á tính
+402,Nam ,Nữ,Nữ và giới khác (2 giới),Không,Chuyển giới Nữ song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nữ song ái bán vô tính
+403,Nam ,Nữ,Nữ và giới khác (2 giới),Không,Chuyển giới Nữ song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nữ song ái vô tính
+404,Nam ,Nữ,Nữ và giới khác (2 giới),Không,Chuyển giới Nữ song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nữ song ái vô tính
+405,Nam ,Nữ,Nữ và giới khác (2 giới),Không,Chuyển giới Nữ song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nữ song ái bán vô tính
+406,Nam ,Nữ,Nữ và giới khác (2 giới),Không,Chuyển giới Nữ song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Chuyển giới Nữ song ái vô tính
+407,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nữ toàn ái á tính
+408,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,,Không,Không,Bỏ,Bỏ,Chuyển giới Nữ toàn ái ái á tính
+409,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nữ toàn ái bán vô tính
+410,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nữ toàn ái vô tính
+411,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,,Có,Không,Bỏ,Bỏ,Chuyển giới Nữ toàn ái vô tính
+412,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,,Có,Có,Bỏ,Bỏ,Chuyển giới Nữ toàn ái bán vô tính
+413,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Chuyển giới Nữ toàn ái vô tính
+414,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Chuyển giới Nữ toàn ái (mù giới) vô tính
+415,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Chuyển giới Nữ toàn ái (không mù giới) vô tính
+416,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Chuyển giới Nữ đa ái vô tính
+417,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nữ toàn ái (mù giới) á tính
+418,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nữ toàn ái (mù giới) á tính
+419,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nữ toàn ái (mù giới) bán vô tính
+420,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nữ toàn ái (mù giới) vô tính
+421,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nữ toàn ái (mù giới) vô tính
+422,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nữ toàn ái (mù giới) bán vô tính
+423,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nữ toàn ái (không mù giới) á tính
+424,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nữ toàn ái (không mù giới) á tính
+425,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nữ toàn ái (không mù giới) bán vô tính
+426,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nữ toàn ái (không mù giới) vô tính
+427,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nữ toàn ái (không mù giới) vô tính
+428,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nữ toàn ái (không mù giới) bán vô tính
+429,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nữ đa ái á tính
+430,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nữ đa ái á tính
+431,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nữ đa ái bán vô tính
+432,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nữ đa ái vô tính
+433,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nữ đa ái vô tính
+434,Nam ,Nữ,Nhiều hơn hai giới ,Không,Chuyển giới Nữ toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nữ đa ái bán vô tính
+435,Nam ,Nữ,Nữ,Nữ,Chuyển giới Nữ đồng tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ đồng tính
+436,Nam ,Nữ,Nữ,Nam,Chuyển giới Nữ đồng ái dị tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ đồng ái dị tính
+437,Nam ,Nữ,Nữ,Nam và Nữ,Chuyển giới Nữ đồng ái song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ đồng ái song tính
+438,Nam ,Nữ,Nữ,Nam và giới khác (2 giới),Chuyển giới Nữ đồng ái song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ đồng ái song tính
+439,Nam ,Nữ,Nữ,Nữ và giới khác (2 giới),Chuyển giới Nữ đồng ái song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ đồng ái song tính
+440,Nam ,Nữ,Nữ,Nhiều hơn hai giới ,Chuyển giới Nữ đồng ái toàn tính,Bỏ,Bỏ,Bỏ,,,có,Bỏ,Bỏ,Tất cả các giới,Có,Đồng ái toàn tính (mù giới)
+441,Nam ,Nữ,Nữ,Nhiều hơn hai giới ,Chuyển giới Nữ đồng ái toàn tính,Bỏ,Bỏ,Bỏ,,,có,Bỏ,Bỏ,Tất cả các giới,Không,Đồng ái toàn tính (không mù giới)
+442,Nam ,Nữ,Nữ,Nhiều hơn hai giới ,Chuyển giới Nữ đồng ái toàn tính,Bỏ,Bỏ,Bỏ,,,có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Đồng ái đa tính
+443,Nam ,Nữ,Nữ,Nhiều hơn hai giới ,Chuyển giới Nữ đồng ái toàn tính,Bỏ,Bỏ,Bỏ,,,Không,Bỏ,Bỏ,Bỏ,Bỏ,Đồng ái toàn tính (không mù giới)
+444,Nam ,Nữ,Nam,Nữ,Chuyển giới Nữ dị ái đồng tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ dị ái đồng tính
+445,Nam ,Nữ,Nam,Nam,Chuyển giới Nữ dị tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ dị tính
+446,Nam ,Nữ,Nam,Nam và Nữ,Chuyển giới Nữ dị ái song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ dị ái song tính
+447,Nam ,Nữ,Nam,Nam và giới khác (2 giới),Chuyển giới Nữ dị ái song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ dị ái song tính
+448,Nam ,Nữ,Nam,Nữ và giới khác (2 giới),Chuyển giới Nữ dị ái song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ dị ái song tính
+449,Nam ,Nữ,Nam,Nhiều hơn hai giới ,Chuyển giới Nữ dị ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Dị ái toàn tính (mù giới)
+450,Nam ,Nữ,Nam,Nhiều hơn hai giới ,Chuyển giới Nữ dị ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Dị ái toàn tính (không mù giới)
+451,Nam ,Nữ,Nam,Nhiều hơn hai giới ,Chuyển giới Nữ dị ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Dị ái đa tính
+452,Nam ,Nữ,Nam,Nhiều hơn hai giới ,Chuyển giới Nữ dị ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Dị ái toàn tính
+453,Nam ,Nữ,Nam và Nữ,Nữ,Chuyển giới Nữ song ái đồng tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ song ái đồng tính
+454,Nam ,Nữ,Nam và Nữ,Nam,Chuyển giới Nữ song ái dị tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ song ái dị tính
+455,Nam ,Nữ,Nam và Nữ,Nam và Nữ,Chuyển giới Nữ song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ song tính
+456,Nam ,Nữ,Nam và Nữ,Nam và giới khác (2 giới),Chuyển giới Nữ song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ song tính
+457,Nam ,Nữ,Nam và Nữ,Nữ và giới khác (2 giới),Chuyển giới Nữ song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ song tính
+458,Nam ,Nữ,Nam và Nữ,Nhiều hơn hai giới ,Chuyển giới Nữ song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Chuyển giới Nữ song ái toàn tính (mù giới)
+459,Nam ,Nữ,Nam và Nữ,Nhiều hơn hai giới ,Chuyển giới Nữ song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Chuyển giới Nữ song ái toàn tính (không mù giới)
+460,Nam ,Nữ,Nam và Nữ,Nhiều hơn hai giới ,Chuyển giới Nữ song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Song ái đồng tính (mù giới)
+461,Nam ,Nữ,Nam và Nữ,Nhiều hơn hai giới ,Chuyển giới Nữ song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Song ái toàn tính
+462,Nam ,Nữ,Nam và giới khác (2 giới),Nữ,Chuyển giới Nữ song ái đồng tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ song ái đồng tính
+463,Nam ,Nữ,Nam và giới khác (2 giới),Nam,Chuyển giới Nữ song ái dị tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ song ái dị tính
+464,Nam ,Nữ,Nam và giới khác (2 giới),Nam và Nữ,Chuyển giới Nữ song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ song tính
+465,,Nữ,Nam và giới khác (2 giới),Nam và giới khác (2 giới),Chuyển giới Nữ song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ song tính
+466,,Nữ,Nam và giới khác (2 giới),Nữ và giới khác (2 giới),Chuyển giới Nữ song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ song tính
+467,Nam ,Nữ,Nam và giới khác (2 giới),Nhiều hơn hai giới ,Chuyển giới Nữ song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Chuyển giới Nữ song ái toàn tính (mù giới)
+468,Nam ,Nữ,Nam và giới khác (2 giới),Nhiều hơn hai giới ,Chuyển giới Nữ song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Chuyển giới Nữ song ái toàn tính (không mù giới)
+469,Nam ,Nữ,Nam và giới khác (2 giới),Nhiều hơn hai giới ,Chuyển giới Nữ song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Chuyển giới Nữ song ái đồng tính (mù giới)
+470,Nam ,Nữ,Nam và giới khác (2 giới),Nhiều hơn hai giới ,Chuyển giới Nữ song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ song ái toàn tính
+471,Nam ,Nữ,Nữ và giới khác (2 giới),Nữ,Chuyển giới Nữ song ái đồng tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ song ái đồng tính
+472,Nam ,Nữ,Nữ và giới khác (2 giới),Nam,Chuyển giới Nữ song ái dị tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ song ái dị tính
+473,Nam ,Nữ,Nữ và giới khác (2 giới),Nam và Nữ,Chuyển giới Nữ song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ song tính
+474,Nam ,Nữ,Nữ và giới khác (2 giới),Nam và giới khác (2 giới),Chuyển giới Nữ song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ song tính
+475,Nam ,Nữ,Nữ và giới khác (2 giới),Nữ và giới khác (2 giới),Chuyển giới Nữ song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ song tính
+476,Nam ,Nữ,Nữ và giới khác (2 giới),Nhiều hơn hai giới ,Chuyển giới Nữ song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Chuyển giới Nữ song ái toàn tính (mù giới)
+477,Nam ,Nữ,Nữ và giới khác (2 giới),Nhiều hơn hai giới ,Chuyển giới Nữ song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Chuyển giới Nữ song ái toàn tính (không mù giới)
+478,Nam ,Nữ,Nữ và giới khác (2 giới),Nhiều hơn hai giới ,Chuyển giới Nữ song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Chuyển giới Nữ song ái đồng tính (mù giới)
+479,Nam ,Nữ,Nữ và giới khác (2 giới),Nhiều hơn hai giới ,Chuyển giới Nữ song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ song ái toàn tính
+480,Nam ,Nữ,Nhiều hơn hai giới ,Nữ,Chuyển giới Nữ toàn ái đồng tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ Toàn ái (mù giới) đồng tính
+481,Nam ,Nữ,Nhiều hơn hai giới ,Nữ,Chuyển giới Nữ toàn ái đồng tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ toàn ái (không mù giới) đồng tính
+482,Nam ,Nữ,Nhiều hơn hai giới ,Nữ,Chuyển giới Nữ toàn ái đồng tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ đa ái đồng tính
+483,Nam ,Nữ,Nhiều hơn hai giới ,Nữ,Chuyển giới Nữ toàn ái đồng tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ toàn ái đồng tính
+484,Nam ,Nữ,Nhiều hơn hai giới ,Nam,Chuyển giới Nữ toàn ái dị tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ toàn ái (mù giới) dị tính
+485,Nam ,Nữ,Nhiều hơn hai giới ,Nam,Chuyển giới Nữ toàn ái dị tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ toàn ái (không mù giới) dị tính
+486,Nam ,Nữ,Nhiều hơn hai giới ,Nam,Chuyển giới Nữ toàn ái dị tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ đa ái dị tính
+487,Nam ,Nữ,Nhiều hơn hai giới ,Nam,Chuyển giới Nữ toàn ái dị tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ toàn ái dị tính
+488,Nam ,Nữ,Nhiều hơn hai giới ,Nam và Nữ,Chuyển giới Nữ toàn ái song tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ toàn ái (mù giới) song tính
+489,Nam ,Nữ,Nhiều hơn hai giới ,Nam và Nữ,Chuyển giới Nữ toàn ái song tính,Có ,Bỏ,Bỏ,Tất cả các giới,Không,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ toàn ái (không mù giới) song tính
+490,Nam ,Nữ,Nhiều hơn hai giới ,Nam và Nữ,Chuyển giới Nữ toàn ái song tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ đa ái song tính
+491,Nam ,Nữ,Nhiều hơn hai giới ,Nam và Nữ,Chuyển giới Nữ toàn ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ toàn ái song tính
+492,Nam ,Nữ,Nhiều hơn hai giới ,Nam và giới khác (2 giới),Chuyển giới Nữ toàn ái song tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ toàn ái (mù giới) song tính
+493,Nam ,Nữ,Nhiều hơn hai giới ,Nam và giới khác (2 giới),Chuyển giới Nữ toàn ái song tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ toàn ái (không mù giới) song tính
+494,Nam ,Nữ,Nhiều hơn hai giới ,Nam và giới khác (2 giới),Chuyển giới Nữ toàn ái song tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ đa ái song tính
+495,Nam ,Nữ,Nhiều hơn hai giới ,Nam và giới khác (2 giới),Chuyển giới Nữ toàn ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ toàn ái song tính
+496,Nam ,Nữ,Nhiều hơn hai giới ,Nữ và giới khác (2 giới),Chuyển giới Nữ toàn ái song tính,Có ,Bỏ,Bỏ,Tất cả các giới,Có,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ toàn ái (mù giới) song tính
+497,Nam ,Nữ,Nhiều hơn hai giới ,Nữ và giới khác (2 giới),Chuyển giới Nữ toàn ái song tính,Có ,Bỏ,Bỏ,Tất cả các giới,Không,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ toàn ái (không mù giới) song tính
+498,Nam ,Nữ,Nhiều hơn hai giới ,Nữ và giới khác (2 giới),Chuyển giới Nữ toàn ái song tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ đa ái song tính
+499,Nam ,Nữ,Nhiều hơn hai giới ,Nữ và giới khác (2 giới),Chuyển giới Nữ toàn ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ toàn ái song tính
+500,Nam ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nữ toàn tính,Có ,Bỏ,Bỏ,Tất cả các giới,Có,Có,Bỏ,Bỏ,Tất cả các giới,Có,Chuyển giới Nữ toàn tính (mù giới)
+501,Nam ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nữ toàn tính,Có ,Bỏ,Bỏ,Tất cả các giới,Có,Có,Bỏ,Bỏ,Tất cả các giới,Không,Chuyển giới Nữ toàn ái (mù giới) toàn tính (không mù giới)
+502,Nam ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nữ toàn tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Chuyển giới Nữ toàn ái đa tính
+503,Nam ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nữ toàn tính,Có ,Bỏ,Bỏ,Tất cả các giới,Không,Có,Bỏ,Bỏ,Tất cả các giới,Có,Chuyển giới Nữ toàn ái  (không mù giới) toàn tính (mù giới)
+504,Nam ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nữ toàn tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Bỏ,Bỏ,Tất cả các giới,Không,Chuyển giới Nữ toàn ái toàn tính (không mù giới)
+505,Nam ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nữ toàn tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Chuyển giới Nữ toàn ái (không mù giới) đa tính
+506,Nam ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nữ toàn tính,Có ,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Chuyển giới Nữ đa ái toàn tính (mù giới)
+507,Nam ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nữ toàn tính,Có ,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Chuyển giới Nữ đa ái toàn tính (không mù giới)
+508,Nam ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nữ toàn tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Chuyển giới Nữ đa tính
+509,Nam ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nữ toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ toàn tính
+510,Nam ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nữ toàn tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ toán ái (mù giới) toàn tính
+511,Nam ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nữ toàn tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ toàn ái (không mù giới) toàn tính
+512,Nam ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nữ toàn tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nữ đa ái toàn tính
+513,Nam ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nữ toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,chuyển giới Nữ toàn ái toàn tính (không mù giới)
+514,Nam ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nữ toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Chuyển giới Nữ toàn ái đa tính
+515,Nam ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nữ toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Chuyển giới Nữ toàn ái toàn tính (mù giới)
+516,Nữ ,Nữ,Không,Không,Vô tính,Có,Không,Có,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,á tính 
+517,Nữ ,Nữ,Không,Không,Vô tính,Có,Không,Không,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,á tính 
+518,Nữ ,Nữ,Không,Không,Vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Bán vô tính
+519,Nữ ,Nữ,Không,Không,Vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Vô tính
+520,Nữ ,Nữ,Không,Không,Vô tính,Có,Có,Không,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Vô tính
+521,Nữ ,Nữ,Không,Không,Vô tính,Có,Có,Có,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Bán vô tính
+522,Nữ ,Nữ,Không,Không,Vô tính,Có,Không,Có,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,á tính 
+523,Nữ ,Nữ,Không,Không,Vô tính,Có,Không,Có,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Á ái bán vô tính
+524,Nữ ,Nữ,Không,Không,Vô tính,Có,Không,Có,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Á ái vô tính
+525,Nữ ,Nữ,Không,Không,Vô tính,Có,Không,Có,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Á ái vô tính
+526,Nữ ,Nữ,Không,Không,Vô tính,Có,Không,Có,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Á ái bán vô tính
+527,Nữ ,Nữ,Không,Không,Vô tính,Có,Không,Không,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,á tính 
+528,Nữ ,Nữ,Không,Không,Vô tính,Có,Không,Không,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Á ái bán vô tính
+529,Nữ ,Nữ,Không,Không,Vô tính,Có,Không,Không,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Á ái vô tính
+530,Nữ ,Nữ,Không,Không,Vô tính,Có,Không,Không,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Á ái vô tính
+531,Nữ ,Nữ,Không,Không,Vô tính,Có,Không ,Không,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Á ái bán vô tính
+532,Nữ ,Nữ,Không,Không,Vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Bán vô ái á tính
+533,Nữ ,Nữ,Không,Không,Vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Bán vô ái á tính
+534,Nữ ,Nữ,Không,Không,Vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Bán vô ái vô tính
+535,Nữ ,Nữ,Không,Không,Vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Bán vô ái vô tính
+536,Nữ ,Nữ,Không,Không,Vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Bán vô tính
+537,Nữ ,Nữ,Không,Không,Vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Vô ái á tính
+538,Nữ ,Nữ,Không,Không,Vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Vô ái á tính
+539,Nữ ,Nữ,Không,Không,Vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Vô ái bán vô tính
+540,Nữ ,Nữ,Không,Không,Vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Vô tính
+541,Nữ ,Nữ,Không,Không,Vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Vô ái bán vô tính
+542,Nữ ,Nữ,Không,Không,Vô tính,Có,Có,Không,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Vô ái á tính
+543,Nữ ,Nữ,Không,Không,Vô tính,Có,Có,Không,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Vô ái á tính
+544,Nữ ,Nữ,Không,Không,Vô tính,Có,Có,Không,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Vô ái bán vô tính
+545,Nữ ,Nữ,Không,Không,Vô tính,Có,Có,Không,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Vô tính
+546,Nữ ,Nữ,Không,Không,Vô tính,Có,Có,Không,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Vô ái bán vô tính
+547,Nữ ,Nữ,Không,Không,Vô tính,Có,Có,Có,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Bán vô ái á tính
+548,Nữ ,Nữ,Không,Không,Vô tính,Có,Có,Có,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Bán vô ái á tính
+549,Nữ ,Nữ,Không,Không,Vô tính,Có,Có,Có,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Bán vô tính
+550,Nữ ,Nữ,Không,Không,Vô tính,Có,Có,Có,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Bán vô ái vô tính
+551,Nữ ,Nữ,Không,Không,Vô tính,Có,Có,Có,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Bán vô ái vô tính
+552,Nữ ,Nữ,Không,Không,Vô tính,Có,Không,Có,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Á ái vô tính
+553,Nữ ,Nữ,Không,Không,Vô tính,Có,Không,Không,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Á ái vô tính
+554,Nữ ,Nữ,Không,Không,Vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái vô tính
+555,Nữ ,Nữ,Không,Không,Vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Vô tính
+556,Nữ ,Nữ,Không,Không,Vô tính,Có,Có,Không,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Vô tính
+557,Nữ ,Nữ,Không,Không,Vô tính,Có,Có,Có,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái vô tính
+558,Nữ ,Nữ,Không,Không,Vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Vô ái á tính
+559,Nữ ,Nữ,Không,Không,Vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Vô ái á tính
+560,Nữ ,Nữ,Không,Không,Vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Vô ái bán vô tính
+561,Nữ ,Nữ,Không,Không,Vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Vô tính
+562,Nữ ,Nữ,Không,Không,Vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Vô tính
+563,Nữ ,Nữ,Không,Không,Vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Vô ái bán vô tính
+564,Nữ ,Nữ,Không,Không,Vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Vô tính
+565,Nữ ,Nữ,Không,Nam,Vô ái dị tính,Có,Không,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái dị tính
+566,Nữ ,Nữ,Không,Nam,Vô ái dị tính,Có,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái dị tính
+567,Nữ ,Nữ,Không,Nam,Vô ái dị tính,Có,Không hẳn,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái dị tính
+568,Nữ ,Nữ,Không,Nam,Vô ái dị tính,Có,Không hẳn,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái dị tính
+569,Nữ ,Nữ,Không,Nam,Vô ái dị tính,Có,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái dị tính
+570,Nữ ,Nữ,Không,Nam,Vô ái dị tính,Có,Có,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái dị tính
+571,Nữ ,Nữ,Không,Nam,Vô ái dị tính,không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái dị tính
+572,Nữ ,Nữ,Không,Nữ,Vô ái đồng tính,Có,Không,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái đồng tính
+573,Nữ ,Nữ,Không,Nữ,Vô ái đồng tính,Có,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái đồng tính
+574,Nữ ,Nữ,Không,Nữ,Vô ái đồng tính,Có,Không hẳn,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái đồng tính
+575,Nữ ,Nữ,Không,Nữ,Vô ái đồng tính,Có,Không hẳn,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái đồng tính
+576,Nữ ,Nữ,Không,Nữ,Vô ái đồng tính,Có,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái đồng tính
+577,Nữ ,Nữ,Không,Nữ,Vô ái đồng tính,Có,Có,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái đồng tính
+578,Nữ ,Nữ,Không,Nữ,Vô ái đồng tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái đồng tính
+579,Nữ ,Nữ,Không,Nữ và Nam,Vô ái song tính,Có,Không,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái song tính
+580,Nữ ,Nữ,Không,Nữ và Nam,Vô ái song tính,Có,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái song tính
+581,Nữ ,Nữ,Không,Nữ và Nam,Vô ái song tính,Có,Không hẳn,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái song tính
+582,Nữ ,Nữ,Không,Nữ và Nam,Vô ái song tính,Có,Không hẳn,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+583,Nữ ,Nữ,Không,Nữ và Nam,Vô ái song tính,Có,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+584,Nữ ,Nữ,Không,Nữ và Nam,Vô ái song tính,Có,Có,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái song tính
+585,Nữ ,Nữ,Không,Nữ và Nam,Vô ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+586,Nữ ,Nữ,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái song tính
+587,Nữ ,Nữ,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái song tính
+588,Nữ ,Nữ,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái song tính
+589,Nữ ,Nữ,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+590,Nữ ,Nữ,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+591,Nữ ,Nữ,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Có,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái song tính
+592,Nữ ,Nữ,Không,Nữ và giới khác (2 giới),Vô ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+593,Nữ ,Nữ,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái song tính
+594,Nữ ,Nữ,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái song tính
+595,Nữ ,Nữ,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái song tính
+596,Nữ ,Nữ,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+597,Nữ ,Nữ,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+598,Nữ ,Nữ,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Có,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái song tính
+599,Nữ ,Nữ,Không,Nữ và giới khác (2 giới),Vô ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+600,Nữ ,Nữ,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái song tính
+601,Nữ ,Nữ,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái song tính
+602,Nữ ,Nữ,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái song tính
+603,Nữ ,Nữ,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+604,Nữ ,Nữ,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+605,Nữ ,Nữ,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Có,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái song tính
+606,Nữ ,Nữ,Không,Nam và giới khác (2 giới),Vô ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+607,Nữ ,Nữ,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái song tính
+608,Nữ ,Nữ,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái song tính
+609,Nữ ,Nữ,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái song tính
+610,Nữ ,Nữ,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+611,Nữ ,Nữ,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+612,Nữ ,Nữ,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Có,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái song tính
+613,Nữ ,Nữ,Không,Nam và giới khác (2 giới),Vô ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+614,Nữ ,Nữ,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái song tính
+615,Nữ ,Nữ,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Á ái song tính
+616,Nữ ,Nữ,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái song tính
+617,Nữ ,Nữ,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+618,Nữ ,Nữ,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+619,Nữ ,Nữ,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Có,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bán vô ái song tính
+620,Nữ ,Nữ,Không,Nam và giới khác (2 giới),Vô ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Vô ái song tính
+621,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Có,Bỏ,Bỏ,không,không,không,Bỏ,Bỏ,Á ái toàn tính
+622,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Không,Bỏ,Bỏ,không,không,không,Bỏ,Bỏ,Á ái toàn tính
+623,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Có,Bỏ,Bỏ,không,không,không,Bỏ,Bỏ,Bán vô ái toàn tính
+624,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Không,Bỏ,Bỏ,không,không,không,Bỏ,Bỏ,Vô ái toàn tính
+625,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Có,Không,Bỏ,Bỏ,không,không,không,Bỏ,Bỏ,Vô ái toàn tính
+626,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Có,Có,Bỏ,Bỏ,không,không,không,Bỏ,Bỏ,Bán vô ái toàn  tính
+627,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Tất cả các giới,Có,Vô ái toàn tính (mù giới)
+628,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Tất cả các giới,Không,Vô ái toàn tính (không mù giới)
+629,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Nhiều hơn hai giới,Bỏ,Vô ái đa tính
+630,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ ,Bỏ,Bỏ,Vô ái toàn tính
+631,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Á ái toàn tính (mù giới)
+632,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Á ái toàn tính (không mù giới)
+633,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Á ái đa tính
+634,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Á ái toàn tính (mù giới)
+635,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Á ái toàn tính (không mù giới)
+636,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Á ái đa tính
+637,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Bán vô ái toàn tính (mù giới)
+638,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Bán vô ái toàn tính (không mù giới)
+639,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Bán vô ái đa tính
+640,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Vô ái toàn tính (mù giới)
+641,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Vô ái toàn tính (không mù giới)
+642,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Vô ái đa tính
+643,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Có,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Vô ái toàn tính (mù giới)
+644,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Có,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Vô ái toàn tính (không mù giới)
+645,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Có,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Vô ái đa tính
+646,Nữ ,Nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Có,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Bán vô ái toàn tính (mù giới)
+647,Nữ ,Nữ,Nam,Không ,Dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Dị ái á tính
+648,Nữ ,Nữ,Nam,Không ,Dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Dị ái á tính
+649,Nữ ,Nữ,Nam,Không ,Dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Dị ái bán vô tính
+650,Nữ ,Nữ,Nam,Không ,Dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Dị ái vô tính
+651,Nữ ,Nữ,Nam,Không ,Dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Dị ái vô tính
+652,Nữ ,Nữ,Nam,Không ,Dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Dị ái bán vô tính
+653,Nữ ,Nữ,Nam,Không ,Dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Dị ái vô tính
+654,Nữ ,Nữ,Nữ,Không ,Đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Đồng ái á tính
+655,Nữ ,Nữ,Nữ,Không ,Đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Đồng ái ái á tính
+656,Nữ ,Nữ,Nữ,Không ,Đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Đồng ái bán vô tính
+657,Nữ ,Nữ,Nữ,Không ,Đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Đồng ái vô tính
+658,Nữ ,Nữ,Nữ,Không ,Đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Đồng ái vô tính
+659,Nữ ,Nữ,Nữ,Không ,Đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Đồng ái bán vô tính
+660,Nữ ,Nữ,Nữ,Không ,Đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Đồng ái vô tính
+661,Nữ ,Nữ,Nữ và Nam,Không ,Song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Song ái á tính
+662,Nữ ,Nữ,Nữ và Nam,Không ,Song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Song ái ái á tính
+663,Nữ ,Nữ,Nữ và Nam,Không ,Song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Song ái bán vô tính
+664,Nữ ,Nữ,Nữ và Nam,Không ,Song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Song ái vô tính
+665,Nữ ,Nữ,Nữ và Nam,Không ,Song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Song ái vô tính
+666,Nữ ,Nữ,Nữ và Nam,Không ,Song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Song ái bán vô tính
+667,Nữ ,Nữ,Nữ và Nam,Không ,Song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Song ái vô tính
+668,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Toàn ái á tính
+669,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Toàn ái ái á tính
+670,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Toàn ái bán vô tính
+671,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Toàn ái vô tính
+672,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Toàn ái vô tính
+673,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Toàn ái bán vô tính
+674,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Toàn ái vô tính
+675,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Không,,,Bỏ,Bỏ,Toàn ái (mù giới) vô tính
+676,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Không,,,Bỏ,Bỏ,Toàn ái (không mù giới) vô tính
+677,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Không,,,Bỏ,Bỏ,Đa ái vô tính
+678,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Không,Có,Bỏ,Bỏ,Toàn ái (mù giới) á tính
+679,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Không,Không,Bỏ,Bỏ,Toàn ái (mù giới) á tính
+680,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Không hẳn,Có,Bỏ,Bỏ,Toàn ái (mù giới) bán vô tính
+681,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Không hẳn,Không,Bỏ,Bỏ,Toàn ái (mù giới) vô tính
+682,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Có,Không,Bỏ,Bỏ,Toàn ái (mù giới) vô tính
+683,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Có,Có,Bỏ,Bỏ,Toàn ái (mù giới) bán vô tính
+684,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Không,Có,Bỏ,Bỏ,Toàn ái (không mù giới) á tính
+685,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Không,Không,Bỏ,Bỏ,Toàn ái (không mù giới) á tính
+686,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Không hẳn,Có,Bỏ,Bỏ,Toàn ái (không mù giới) bán vô tính
+687,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Không hẳn,Không,Bỏ,Bỏ,Toàn ái (không mù giới) vô tính
+688,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Có,Không,Bỏ,Bỏ,Toàn ái (không mù giới) vô tính
+689,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Có,Có,Bỏ,Bỏ,Toàn ái (không mù giới) bán vô tính
+690,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Không,Có,Bỏ,Bỏ,Đa ái á tính
+691,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Không,Không,Bỏ,Bỏ,Đa ái á tính
+692,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Đa ái bán vô tính
+693,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Đa ái vô tính
+694,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Có,Không,Bỏ,Bỏ,Đa ái vô tính
+695,Nữ ,Nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Có,Có,Bỏ,Bỏ,Đa ái bán vô tính
+696,Nữ ,Nữ,Nam,Nam,Dị tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Dị tính
+697,Nữ ,Nữ,Nam,Nữ,Dị ái đồng tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Dị ái đồng tính
+698,Nữ ,Nữ,Nam,Nữ và Nam,Dị ái song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Dị ái song tính
+699,Nữ ,Nữ,Nam,Nữ và giới khác (2 giới),Dị ái song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Dị ái song tính
+700,Nữ ,Nữ,Nam,Nam và giới khác (2 giới),Dị ái song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Dị ái song tính
+701,Nữ ,Nữ,Nam,Nhiều hơn hai giới ,Dị ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Dị ái toàn tính (mù giới)
+702,Nữ ,Nữ,Nam,Nhiều hơn hai giới ,Dị ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Dị ái toàn tính (không mù giới)
+703,Nữ ,Nữ,Nam,Nhiều hơn hai giới ,Dị ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Dị ái đa tính
+704,Nữ ,Nữ,Nam,Nhiều hơn hai giới ,Dị ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Dị ái toàn tính
+705,Nữ ,Nữ,Nữ,Nam,Đống ái dị tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Đống ái dị tính
+706,Nữ ,Nữ,Nữ,Nữ,Đồng tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Đồng tính
+707,Nữ ,toàn,Nữ,Nữ và Nam,Đồng ái song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Đồng ái song tính
+708,Nữ ,Nữ,Nữ,Nữ và giới khác (2 giới),Đồng ái song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Đồng ái song tính
+709,Nữ ,Nữ,Nữ,Nam và giới khác (2 giới),Đồng ái song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Đồng ái song tính
+710,Nữ ,Nữ,Nữ,Nhiều hơn hai giới ,Đồng ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,có,Bỏ,Bỏ,Tất cả các giới,Có,Đồng ái toàn tính (mù giới)
+711,Nữ ,Nữ,Nữ,Nhiều hơn hai giới ,Đồng ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,có,Bỏ,Bỏ,Tất cả các giới,Không,Đồng ái toàn tính (không mù giới)
+712,Nữ ,Nữ,Nữ,Nhiều hơn hai giới ,Đồng ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Đồng ái đa tính
+713,Nữ ,Nữ,Nữ,Nhiều hơn hai giới ,Đồng ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Đồng ái toàn tính (không mù giới)
+714,Nữ ,Nữ,Nữ và Nam,Nam,Song ái dị tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song ái dị tính
+715,Nữ ,Nữ,Nữ và Nam,Nữ,Song ái đồng tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song ái đồng tính
+716,Nữ ,Nữ,Nữ và Nam,Nữ và Nam,Song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song tính
+717,Nữ ,Nữ,Nữ và Nam,Nữ và giới khác (2 giới),Song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song tính
+718,Nữ ,Nữ,Nữ và Nam,Nam và giới khác (2 giới),Song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song tính
+719,Nữ ,Nữ,Nữ và Nam,Nhiều hơn hai giới ,Song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Song ái toàn tính (mù giới)
+720,Nữ ,Nữ,Nữ và Nam,Nhiều hơn hai giới ,Song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Song ái toàn tính (không mù giới)
+721,Nữ ,Nữ,Nữ và Nam,Nhiều hơn hai giới ,Song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Đa ái toàn tính
+722,Nữ ,Nữ,Nữ và Nam,Nhiều hơn hai giới ,Song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Song ái toàn tính
+723,Nữ ,Nữ,Nữ và giới khác (2 giới),Nam,Song ái dị tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song ái dị tính
+724,Nữ ,Nữ,Nữ và giới khác (2 giới),Nữ,Song ái đồng tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song ái đồng tính
+725,Nữ ,Nữ,Nữ và giới khác (2 giới),Nữ và Nam,Song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song tính
+726,Nữ ,Nữ,Nữ và giới khác (2 giới),Nữ và giới khác (2 giới),Song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song tính
+727,Nữ ,Nữ,Nữ và giới khác (2 giới),Nam và giới khác (2 giới),Song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song tính
+728,Nữ ,Nữ,Nữ và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Tất cả các giới,Có,Bỏ,Bỏ,Song ái toàn tính (mù giới)
+729,Nữ ,Nữ,Nữ và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Tất cả các giới,Không,Bỏ,Bỏ,Song ái toàn tính (không mù giới)
+730,Nữ ,Nữ,Nữ và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Nhiều hơn hai giới,Bỏ,Bỏ,Bỏ,Đa ái toàn tính
+731,Nữ ,Nữ,Nữ và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Song ái toàn tính
+732,Nữ ,Nữ,Nam và giới khác (2 giới),Nam,Song ái dị tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song ái dị tính
+733,Nữ ,Nữ,Nam và giới khác (2 giới),Nữ,Song ái đồng tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song ái đồng tính
+734,Nữ ,Nữ,Nam và giới khác (2 giới),Nữ và Nam,Song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song tính
+735,Nữ ,Nữ,Nam và giới khác (2 giới),Nữ và giới khác (2 giới),Song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song tính
+736,Nữ ,Nữ,Nam và giới khác (2 giới),Nam và giới khác (2 giới),Song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song tính
+737,Nữ ,Nữ,Nam và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Tất cả các giới,Có,Bỏ,Bỏ,Song ái toàn tính (mù giới)
+738,Nữ ,Nữ,Nam và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Tất cả các giới,Không,Bỏ,Bỏ,Song ái toàn tính (không mù giới)
+739,Nữ ,Nữ,Nam và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Nhiều hơn hai giới,Bỏ,Bỏ,Bỏ,Đa ái toàn tính
+740,Nữ ,Nữ,Nam và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Song ái toàn tính
+741,Nữ ,Nữ,Nhiều hơn hai giới ,Nam,Toàn ái dị tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái (mù giới) dị tính
+742,Nữ ,Nữ,Nhiều hơn hai giới ,Nam,Toàn ái dị tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái (không mù giới) dị tính
+743,Nữ ,Nữ,Nhiều hơn hai giới ,Nam,Toàn ái dị tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Đa ái dị tính
+744,Nữ ,Nữ,Nhiều hơn hai giới ,Nam,Toàn ái dị tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái dị tính
+745,Nữ ,Nữ,Nhiều hơn hai giới ,Nữ,Toàn ái đồng tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái (mù giới) đồng tính
+746,Nữ ,Nữ,Nhiều hơn hai giới ,Nữ,Toàn ái đồng tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái (không mù giới) đồng tính
+747,Nữ ,Nữ,Nhiều hơn hai giới ,Nữ,Toàn ái đồng tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Đa ái đồng tính
+748,Nữ ,Nữ,Nhiều hơn hai giới ,Nữ,Toàn ái đồng tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái đồng tính
+749,Nữ ,Nữ,Nhiều hơn hai giới ,Nữ và Nam,Toàn ái song tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái (mù giới) song tính
+750,Nữ ,Nữ,Nhiều hơn hai giới ,Nữ và Nam,Toàn ái song tính,Có ,Bỏ,Bỏ,Tất cả các giới,Không,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái (không mù giới) song tính
+751,Nữ ,Nữ,Nhiều hơn hai giới ,Nữ và Nam,Toàn ái song tính,có ,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Đa ái song tính
+752,Nữ ,Nữ,Nhiều hơn hai giới ,Nữ và giới khác (2 giới),Toàn ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái song tính
+753,Nữ ,Nữ,Nhiều hơn hai giới ,Nữ và giới khác (2 giới),Toàn ái song tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái (mù giới) song tính
+754,Nữ ,Nữ,Nhiều hơn hai giới ,Nữ và giới khác (2 giới),Toàn ái song tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái (không mù giới) song tính
+755,Nữ ,Nữ,Nhiều hơn hai giới ,Nữ và giới khác (2 giới),Toàn ái song tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Đa ái song tính
+756,Nữ ,Nữ,Nhiều hơn hai giới ,Nam và giới khác (2 giới),Toàn ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái song tính
+757,Nữ ,Nữ,Nhiều hơn hai giới ,Nam và giới khác (2 giới),Toàn ái song tính,Có ,Bỏ,Bỏ,Tất cả các giới,Có,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái (mù giới) song tính
+758,Nữ ,Nữ,Nhiều hơn hai giới ,Nam và giới khác (2 giới),Toàn ái song tính,Có ,Bỏ,Bỏ,Tất cả các giới,Không,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái (không mù giới) song tính
+759,Nữ ,Nữ,Nhiều hơn hai giới ,Nam và giới khác (2 giới),Toàn ái song tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Đa ái song tính
+760,Nữ ,Nữ,Nhiều hơn hai giới ,Nam và giới khác (2 giới),Toàn ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái song tính
+761,Nữ ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có ,Bỏ,Bỏ,Tất cả các giới,Có,Có,Bỏ,Bỏ,Tất cả các giới,Có,Toàn tính (mù giới)
+762,Nữ ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có ,Bỏ,Bỏ,Tất cả các giới,Có,Có,Bỏ,Bỏ,Tất cả các giới,Không,Toàn ái (mù giới) toàn tính (không mù giới)
+763,Nữ ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Toàn ái đa tính
+764,Nữ ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có ,Bỏ,Bỏ,Tất cả các giới,Không,Có,Bỏ,Bỏ,Tất cả các giới,Có,Toàn ái  (không mù giới) toàn tính (mù giới)
+765,Nữ ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Bỏ,Bỏ,Tất cả các giới,Không,Toàn ái toàn tính (không mù giới)
+766,Nữ ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Không,Bỏ,Bỏ,Tất cả các giới,Không,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Toàn ái (không mù giới) đa tính
+767,Nữ ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có ,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Đa ái toàn tính (mù giới)
+768,Nữ ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có ,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Đa ái toàn tính (không mù giới)
+769,Nữ ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Đa tính
+770,Nữ ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn tính
+771,Nữ ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Toán ái (mù giới) toàn tính
+772,Nữ ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Toàn ái (không mù giới) toàn tính
+773,Nữ ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Đa ái toàn tính
+774,Nữ ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Toàn ái toàn tính (không mù giới)
+775,Nữ ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Toàn ái đa tính
+776,Nữ ,Nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Toàn ái toàn tính (mù giới)
+777,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không,Có,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nam á tính 
+778,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không,Không,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nam á tính 
+779,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nam bán vô tính
+780,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nam vô tính
+781,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Có,Không,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nam vô tính
+782,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Có,Có,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nam bán vô tính
+783,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không,Có,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nam á tính 
+784,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không,Có,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nam á ái bán vô tính
+785,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không,Có,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nam á ái vô tính
+786,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không,Có,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nam á ái vô tính
+787,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không,Có,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nam á ái bán vô tính
+788,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không,Không,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nam á tính 
+789,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không,Không,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nam á ái bán vô tính
+790,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không,Không,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nam á ái vô tính
+791,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không,Không,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nam á ái vô tính
+792,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không ,Không,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nam á ái bán vô tính
+793,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nam bán vô ái á tính
+794,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nam bán vô ái á tính
+795,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nam bán vô ái vô tính
+796,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nam bán vô ái vô tính
+797,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nam bán vô tính
+798,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nam vô ái á tính
+799,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nam vô ái á tính
+800,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nam vô ái bán vô tính
+801,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nam vô tính
+802,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nam vô ái bán vô tính
+803,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Có,Không,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nam vô ái á tính
+804,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Có,Không,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nam vô ái á tính
+805,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Có,Không,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,chuyển giới Nam vô ái bán vô tính
+806,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Có,Không,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nam vô tính
+807,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Có,Không,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nam vô ái bán vô tính
+808,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Có,Có,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nam bán vô ái á tính
+809,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Có,Có,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nam bán vô ái á tính
+810,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Có,Có,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nam bán vô tính
+811,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Có,Có,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nam bán vô ái vô tính
+812,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Có,Có,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nam bán vô ái vô tính
+813,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không,Có,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam á ái vô tính
+814,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không,Không,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyến giới Nam á ái vô tính
+815,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không hẳn,Có,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam bán vô ái vô tính
+816,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Không hẳn,Không,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam vô tính
+817,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Có,Không,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam vô tính
+818,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Có,Có,Có,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam bán vô ái vô tính
+819,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nam vô ái á tính
+820,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nam vô ái á tính
+821,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nam vô ái bán vô tính
+822,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nam vô tính
+823,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nam vô tính
+824,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nam vô ái bán vô tính
+825,Nữ ,Nam,Không,Không,Chuyển giới Nam vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam ô tính
+826,Nữ ,Nam,Không,Nam,Chuyển giới Nam vô ái đồng tính,Có,Không,Có,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam á ái đồng tính
+827,Nữ ,Nam,Không,Nam,Chuyển giới Nam vô ái đồng tính,Có,Không,Không,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Á ái đồng tính
+828,Nữ ,Nam,Không,Nam,Chuyển giới Nam vô ái đồng tính,Có,Không hẳn,Có,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam bán vô ái đồng tính
+829,Nữ ,Nam,Không,Nam,Chuyển giới Nam vô ái đồng tính,Có,Không hẳn,Không,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam vô ái đồng tính
+830,Nữ ,Nam,Không,Nam,Chuyển giới Nam vô ái đồng tính,Có,Có,Không,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam vô ái đồng tính
+831,Nữ ,Nam,Không,Nam,Chuyển giới Nam vô ái đồng tính,Có,Có,Có,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam bán vô ái đồng tính
+832,Nữ ,Nam,Không,Nam,Chuyển giới Nam vô ái đồng tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam vô ái đồng tính
+833,Nữ ,Nam,Không,Nữ,Chuyển giới Nam vô ái dị tính,Có,Không,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam á ái dị tính
+834,Nữ ,Nam,Không,Nữ,Chuyển giới Nam vô ái dị tính,Có,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam á ái dị tính
+835,Nữ ,Nam,Không,Nữ,Chuyển giới Nam vô ái dị tính,Có,Không hẳn,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam bán vô ái dị tính
+836,Nữ ,Nam,Không,Nữ,Chuyển giới Nam vô ái dị tính,Có,Không hẳn,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam vô ái dị tính
+837,Nữ ,Nam,Không,Nữ,Chuyển giới Nam vô ái dị tính,Có,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam vô ái dị tính
+838,Nữ ,Nam,Không,Nữ,Chuyển giới Nam vô ái dị tính,Có,Có,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam bán vô ái dị tính
+839,Nữ ,Nam,Không,Nữ,Chuyển giới Nam vô ái dị tính,không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam vô ái dị tính
+840,Nữ ,Nam,Không,Nữ và Nam,Chuyển giới Nam vô ái song tính,Có,Không,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam á ái song tính
+841,Nữ ,Nam,Không,Nữ và Nam,Chuyển giới Nam vô ái song tính,Có,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam á ái song tính
+842,Nữ ,Nam,Không,Nữ và Nam,Chuyển giới Nam vô ái song tính,Có,Không hẳn,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam bán vô ái song tính
+843,Nữ ,Nam,Không,Nữ và Nam,Chuyển giới Nam vô ái song tính,Có,Không hẳn,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam vô ái song tính
+844,Nữ ,Nam,Không,Nữ và Nam,Chuyển giới Nam vô ái song tính,Có,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam vô ái song tính
+845,Nữ ,Nam,Không,Nữ và Nam,Chuyển giới Nam vô ái song tính,Có,Có,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam bán vô ái song tính
+846,Nữ ,Nam,Không,Nữ và Nam,Chuyển giới Nam vô ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam vô ái song tính
+847,Nữ ,Nam,Không,Nữ và giới khác (2 giới),Chuyển giới Nam vô ái song tính,Có,Không,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam á ái song tính
+848,Nữ ,Nam,Không,Nữ và giới khác (2 giới),Chuyển giới Nam vô ái song tính,Có,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam á ái song tính
+849,Nữ ,Nam,Không,Nữ và giới khác (2 giới),Chuyển giới Nam vô ái song tính,Có,Không hẳn,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam bán vô ái song tính
+850,Nữ ,Nam,Không,Nữ và giới khác (2 giới),Chuyển giới Nam vô ái song tính,Có,Không hẳn,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam vô ái song tính
+851,Nữ ,Nam,Không,Nữ và giới khác (2 giới),Chuyển giới Nam vô ái song tính,Có,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam vô ái song tính
+852,Nữ ,Nam,Không,Nữ và giới khác (2 giới),Chuyển giới Nam vô ái song tính,Có,Có,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam bán vô ái song tính
+853,Nữ ,Nam,Không,Nữ và giới khác (2 giới),Chuyển giới Nam vô ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam vô ái song tính
+854,Nữ ,Nam,Không,Nam và giới khác (2 giới),Chuyển giới Nam vô ái song tính,Có,Không,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam á ái song tính
+855,Nữ ,Nam,Không,Nam và giới khác (2 giới),Chuyển giới Nam vô ái song tính,Có,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam á ái song tính
+856,Nữ ,Nam,Không,Nam và giới khác (2 giới),Chuyển giới Nam vô ái song tính,Có,Không hẳn,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam bán vô ái song tính
+857,Nữ ,Nam,Không,Nam và giới khác (2 giới),Chuyển giới Nam vô ái song tính,Có,Không hẳn,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam vô ái song tính
+858,Nữ ,Nam,Không,Nam và giới khác (2 giới),Chuyển giới Nam vô ái song tính,Có,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam vô ái song tính
+859,Nữ ,Nam,Không,Nam và giới khác (2 giới),Chuyển giới Nam vô ái song tính,Có,Có,Có,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam bán vô ái song tính
+860,Nữ ,Nam,Không,Nam và giới khác (2 giới),Chuyển giới Nam vô ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam vô ái song tính
+861,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Có,Không,Có,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam á ái toàn tính
+862,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Có,Không,Không,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam á ái toàn tính
+863,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Có,Không hẳn,Có,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam bán vô ái toàn tính
+864,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Có,Không hẳn,Không,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam vô ái toàn tính
+865,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Có,Có,Không,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam vô ái toàn tính
+866,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Có,Có,Có,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam bán vô ái toàn  tính
+867,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Chuyển giới Nam vô ái toàn tính (mù giới)
+868,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Chuyển giới Nam vô ái toàn tính (không mù giới)
+869,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Chuyển giới Nam vô ái đa tính
+870,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ ,Bỏ,Bỏ,Chuyển giới Nam vô ái toàn tính
+871,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Có,Không,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Tất cả các giới,Có,Chuyển giới Nam á ái toàn tính (mù giới)
+872,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Có,Không,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Tất cả các giới,Không,Chuyển giới Nam á ái toàn tính (không mù giới)
+873,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Có,Không,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Nhiều hơn hai giới,Bỏ,Chuyển giới Nam á ái đa tính
+874,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Có,Không,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Tất cả các giới,Có,Chuyển giới Nam á ái toàn tính (mù giới)
+875,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Có,Không,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Tất cả các giới,Không,Chuyển giới Nam á ái toàn tính (không mù giới)
+876,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Có,Không,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Nhiều hơn hai giới,Bỏ,Chuyển giới Nam á ái đa tính
+877,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Tất cả các giới,Có,chuyển giới Nam bán vô ái toàn tính (mù giới)
+878,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Tất cả các giới,Không,Chuyển giới Nam bán vô ái toàn tính (không mù giới)
+879,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Có,Không hẳn,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Nhiều hơn hai giới,Bỏ,Chuyển giới Nam bán vô ái đa tính
+880,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Tất cả các giới,Có,Chuyển giới Nam vô ái toàn tính (mù giới)
+881,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Tất cả các giới,Không,Chuyển giới Nam vô ái toàn tính (không mù giới)
+882,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Có,Không hẳn,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Nhiều hơn hai giới,Bỏ,Chuyển giới Nam vô ái đa tính
+883,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Có,Có,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Tất cả các giới,Có,Chuyển giới Nam vô ái toàn tính (mù giới)
+884,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Có,Có,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Tất cả các giới,Không,Chuyển giới Nam vô ái toàn tính (không mù giới)
+885,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Có,Có,Không,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Nhiều hơn hai giới,Bỏ,Chuyển giới Nam vô ái đa tính
+886,Nữ ,Nam,Không,Nhiều hơn hai giới ,Chuyển giới Nam vô ái toàn tính,Có,Có,Có,Bỏ,Bỏ,Có,Bỏ,Bỏ ,Tất cả các giới,Có,Chuyển giới Nam bán vô ái toàn tính (mù giới)
+887,Nữ ,Nam,Nam,Không,Chuyển giới Nam đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nam đồng ái á tính
+888,Nữ ,Nam,Nam,Không,Chuyển giới Nam đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nam đồng ái ái á tính
+889,Nữ ,Nam,Nam,Không,Chuyển giới Nam đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nam đồng ái bán vô tính
+890,Nữ ,Nam,Nam,Không,Chuyển giới Nam đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nam đồng ái vô tính
+891,Nữ ,Nam,Nam,Không,Chuyển giới Nam đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nam đồng ái vô tính
+892,Nữ ,Nam,Nam,Không,Chuyển giới Nam đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nam đồng ái bán vô tính
+893,Nữ ,Nam,Nam,Không,Chuyển giới Nam đồng ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Chuyển giới Nam đồng ái vô tính
+894,Nữ ,Nam,Nữ,Không,Chuyển giới Nam dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nam dị ái á tính
+895,Nữ ,Nam,Nữ,Không,Chuyển giới Nam dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nam dị ái á tính
+896,Nữ ,Nam,Nữ,Không,Chuyển giới Nam dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nam dị ái bán vô tính
+897,Nữ ,Nam,Nữ,Không,Chuyển giới Nam dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nam dị ái vô tính
+898,Nữ ,Nam,Nữ,Không,Chuyển giới Nam dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nam dị ái vô tính
+899,Nữ ,Nam,Nữ,Không,Chuyển giới Nam dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nam dị ái bán vô tính
+900,Nữ ,Nam,Nữ,Không,Chuyển giới Nam dị ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Chuyển giới Nam dị ái vô tính
+901,Nữ ,Nam,Nữ và Nam,Không,Chuyển giới Nam song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nam song ái á tính
+902,Nữ ,Nam,Nữ và Nam,Không,Chuyển giới Nam song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nam song ái ái á tính
+903,Nữ ,Nam,Nữ và Nam,Không,Chuyển giới Nam song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nam song ái bán vô tính
+904,Nữ ,Nam,Nữ và Nam,Không,Chuyển giới Nam song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nam song ái vô tính
+905,Nữ ,Nam,Nữ và Nam,Không,Chuyển giới Nam song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nam song ái vô tính
+906,Nữ ,Nam,Nữ và Nam,Không,Chuyển giới Nam song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nam song ái bán vô tính
+907,Nữ ,Nam,Nữ và Nam,Không,Chuyển giới Nam song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Chuyển giới Nam song ái vô tính
+908,Nữ ,Nam,Nữ và giới khác (2 giới),Không,Chuyển giới Nam song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nam song ái á tính
+909,Nữ ,Nam,Nữ và giới khác (2 giới),Không,Chuyển giới Nam song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nam song ái ái á tính
+910,Nữ ,Nam,Nữ và giới khác (2 giới),Không,Chuyển giới Nam song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nam song ái bán vô tính
+911,Nữ ,Nam,Nữ và giới khác (2 giới),Không,Chuyển giới Nam song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nam song ái vô tính
+912,Nữ ,Nam,Nữ và giới khác (2 giới),Không,Chuyển giới Nam song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nam song ái vô tính
+913,Nữ ,Nam,Nữ và giới khác (2 giới),Không,Chuyển giới Nam song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nam song ái bán vô tính
+914,Nữ ,Nam,Nữ và giới khác (2 giới),Không,Chuyển giới Nam song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Chuyển giới Nam song ái vô tính
+915,Nữ ,Nam,Nam và giới khác (2 giới),Không,Chuyển giới Nam song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nam song ái á tính
+916,Nữ ,Nam,Nam và giới khác (2 giới),Không,Chuyển giới Nam song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nam song ái ái á tính
+917,Nữ ,Nam,Nam và giới khác (2 giới),Không,Chuyển giới Nam song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nam song ái bán vô tính
+918,Nữ ,Nam,Nam và giới khác (2 giới),Không,Chuyển giới Nam song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nam song ái vô tính
+919,Nữ ,Nam,Nam và giới khác (2 giới),Không,Chuyển giới Nam song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nam song ái vô tính
+920,Nữ ,Nam,Nam và giới khác (2 giới),Không,Chuyển giới Nam song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nam song ái bán vô tính
+921,Nữ ,Nam,Nam và giới khác (2 giới),Không,Chuyển giới Nam song ái vô tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Chuyển giới Nam song ái vô tính
+922,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nam toàn ái á tính
+923,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,,Không,Không,Bỏ,Bỏ,Chuyển giới Nam toàn ái ái á tính
+924,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nam toàn ái bán vô tính
+925,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nam toàn ái vô tính
+926,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,,Có,Không,Bỏ,Bỏ,Chuyển giới Nam toàn ái vô tính
+927,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,,Có,Có,Bỏ,Bỏ,Chuyển giới Nam toàn ái bán vô tính
+928,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Chuyển giới Nam toàn ái vô tính
+929,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Chuyển giới Nam toàn ái (mù giới) vô tính
+930,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Chuyển giới Nam toàn ái (không mù giới) vô tính
+931,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Không,Bỏ,Bỏ ,Bỏ,Bỏ,Chuyển giới Nam đa ái vô tính
+932,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nam toàn ái (mù giới) á tính
+933,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nam toàn ái (mù giới) á tính
+934,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nam toàn ái (mù giới) bán vô tính
+935,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nam toàn ái (mù giới) vô tính
+936,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nam toàn ái (mù giới) vô tính
+937,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nam toàn ái (mù giới) bán vô tính
+938,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nam toàn ái (không mù giới) á tính
+939,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nam toàn ái (không mù giới) á tính
+940,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nam toàn ái (không mù giới) bán vô tính
+941,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nam toàn ái (không mù giới) vô tính
+942,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nam toàn ái (không mù giới) vô tính
+943,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nam toàn ái (không mù giới) bán vô tính
+944,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Không,Có,Bỏ,Bỏ,Chuyển giới Nam đa ái á tính
+945,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Không,Không,Bỏ,Bỏ,Chuyển giới Nam đa ái á tính
+946,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Không hẳn,Có,Bỏ,Bỏ,Chuyển giới Nam đa ái bán vô tính
+947,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Không hẳn,Không,Bỏ,Bỏ,Chuyển giới Nam đa ái vô tính
+948,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Có,Không,Bỏ,Bỏ,Chuyển giới Nam đa ái vô tính
+949,Nữ ,Nam,Nhiều hơn hai giới ,Không,Chuyển giới Nam toàn ái vô tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Có,Có,Bỏ,Bỏ,Chuyển giới Nam đa ái bán vô tính
+950,Nữ ,Nam,Nam,Nam,Chuyển giới Nam đồng tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam đồng tính
+951,Nữ ,Nam,Nam,Nữ,Chuyển giới Nam đồng ái dị tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam đồng ái dị tính
+952,Nữ ,Nam,Nam,Nữ và Nam,Chuyển giới Nam đồng ái song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam đồng ái song tính
+953,Nữ ,Nam,Nam,Nữ và giới khác (2 giới),Chuyển giới Nam đồng ái song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam đồng ái song tính
+954,Nữ ,Nam,Nam,Nam và giới khác (2 giới),Chuyển giới Nam đồng ái song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam đồng ái song tính
+955,Nữ ,Nam,Nam,Nhiều hơn hai giới ,Chuyển giới Nam đồng ái toàn tính,Bỏ,Bỏ,Bỏ,,,có,Bỏ,Bỏ,Tất cả các giới,Có,Đồng ái toàn tính (mù giới)
+956,Nữ ,Nam,Nam,Nhiều hơn hai giới ,Chuyển giới Nam đồng ái toàn tính,Bỏ,Bỏ,Bỏ,,,có,Bỏ,Bỏ,Tất cả các giới,Không,Đồng ái toàn tính (không mù giới)
+957,Nữ ,Nam,Nam,Nhiều hơn hai giới ,Chuyển giới Nam đồng ái toàn tính,Bỏ,Bỏ,Bỏ,,,có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Đồng ái đa tính
+958,Nữ ,Nam,Nam,Nhiều hơn hai giới ,Chuyển giới Nam đồng ái toàn tính,Bỏ,Bỏ,Bỏ,,,Không,Bỏ,Bỏ,Bỏ,Bỏ,Đồng ái toàn tính (không mù giới)
+959,Nữ ,Nam,Nữ,Nam,Chuyển giới Nam dị ái đồng tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam dị ái đồng tính
+960,Nữ ,Nam,Nữ,Nữ,Chuyển giới Nam dị tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam dị tính
+961,Nữ ,Nam,Nữ,Nữ và Nam,Chuyển giới Nam dị ái song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam dị ái song tính
+962,Nữ ,Nam,Nữ,Nữ và giới khác (2 giới),Chuyển giới Nam dị ái song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam dị ái song tính
+963,Nữ ,Nam,Nữ,Nam và giới khác (2 giới),Chuyển giới Nam dị ái song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam dị ái song tính
+964,Nữ ,Nam,Nữ,Nhiều hơn hai giới ,Chuyển giới Nam dị ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Dị ái toàn tính (mù giới)
+965,Nữ ,Nam,Nữ,Nhiều hơn hai giới ,Chuyển giới Nam dị ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Dị ái toàn tính (không mù giới)
+966,Nữ ,Nam,Nữ,Nhiều hơn hai giới ,Chuyển giới Nam dị ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Dị ái đa tính
+967,Nữ ,Nam,Nữ,Nhiều hơn hai giới ,Chuyển giới Nam dị ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Dị ái toàn tính
+968,Nữ ,Nam,Nữ và Nam,Nam,Chuyển giới Nam song ái đồng tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam song ái đồng tính
+969,Nữ ,Nam,Nữ và Nam,Nữ,Chuyển giới Nam song ái dị tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam song ái dị tính
+970,Nữ ,Nam,Nữ và Nam,Nữ và Nam,Chuyển giới Nam song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam song tính
+971,Nữ ,Nam,Nữ và Nam,Nữ và giới khác (2 giới),Chuyển giới Nam song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam song tính
+972,Nữ ,Nam,Nữ và Nam,Nam và giới khác (2 giới),Chuyển giới Nam song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam song tính
+973,Nữ ,Nam,Nữ và Nam,Nhiều hơn hai giới ,Chuyển giới Nam song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Chuyển giới Nam song ái toàn tính (mù giới)
+974,Nữ ,Nam,Nữ và Nam,Nhiều hơn hai giới ,Chuyển giới Nam song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Chuyển giới Nam song ái toàn tính (không mù giới)
+975,Nữ ,Nam,Nữ và Nam,Nhiều hơn hai giới ,Chuyển giới Nam song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Song ái đồng tính (mù giới)
+976,Nữ ,Nam,Nữ và Nam,Nhiều hơn hai giới ,Chuyển giới Nam song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Song ái toàn tính
+977,Nữ ,Nam,Nữ và giới khác (2 giới),Nam,Chuyển giới Nam song ái đồng tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam song ái đồng tính
+978,Nữ ,Nam,Nữ và giới khác (2 giới),Nữ,Chuyển giới Nam song ái dị tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam song ái dị tính
+979,Nữ ,Nam,Nữ và giới khác (2 giới),Nữ và Nam,Chuyển giới Nam song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam song tính
+980,,Nam,Nữ và giới khác (2 giới),Nữ và giới khác (2 giới),Chuyển giới Nam song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam song tính
+981,,Nam,Nữ và giới khác (2 giới),Nam và giới khác (2 giới),Chuyển giới Nam song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam song tính
+982,Nữ ,Nam,Nữ và giới khác (2 giới),Nhiều hơn hai giới ,Chuyển giới Nam song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Chuyển giới Nam song ái toàn tính (mù giới)
+983,Nữ ,Nam,Nữ và giới khác (2 giới),Nhiều hơn hai giới ,Chuyển giới Nam song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Chuyển giới Nam song ái toàn tính (không mù giới)
+984,Nữ ,Nam,Nữ và giới khác (2 giới),Nhiều hơn hai giới ,Chuyển giới Nam song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Chuyển giới Nam song ái đồng tính (mù giới)
+985,Nữ ,Nam,Nữ và giới khác (2 giới),Nhiều hơn hai giới ,Chuyển giới Nam song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam song ái toàn tính
+986,Nữ ,Nam,Nam và giới khác (2 giới),Nam,Chuyển giới Nam song ái đồng tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam song ái đồng tính
+987,Nữ ,Nam,Nam và giới khác (2 giới),Nữ,Chuyển giới Nam song ái dị tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam song ái dị tính
+988,Nữ ,Nam,Nam và giới khác (2 giới),Nữ và Nam,Chuyển giới Nam song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam song tính
+989,Nữ ,Nam,Nam và giới khác (2 giới),Nữ và giới khác (2 giới),Chuyển giới Nam song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam song tính
+990,Nữ ,Nam,Nam và giới khác (2 giới),Nam và giới khác (2 giới),Chuyển giới Nam song tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam song tính
+991,Nữ ,Nam,Nam và giới khác (2 giới),Nhiều hơn hai giới ,Chuyển giới Nam song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Chuyển giới Nam song ái toàn tính (mù giới)
+992,Nữ ,Nam,Nam và giới khác (2 giới),Nhiều hơn hai giới ,Chuyển giới Nam song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Chuyển giới Nam song ái toàn tính (không mù giới)
+993,Nữ ,Nam,Nam và giới khác (2 giới),Nhiều hơn hai giới ,Chuyển giới Nam song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Chuyển giới Nam song ái đồng tính (mù giới)
+994,Nữ ,Nam,Nam và giới khác (2 giới),Nhiều hơn hai giới ,Chuyển giới Nam song ái toàn tính,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam song ái toàn tính
+995,Nữ ,Nam,Nhiều hơn hai giới ,Nam,Chuyển giới Nam toàn ái đồng tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam Toàn ái (mù giới) đồng tính
+996,Nữ ,Nam,Nhiều hơn hai giới ,Nam,Chuyển giới Nam toàn ái đồng tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam toàn ái (không mù giới) đồng tính
+997,Nữ ,Nam,Nhiều hơn hai giới ,Nam,Chuyển giới Nam toàn ái đồng tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam đa ái đồng tính
+998,Nữ ,Nam,Nhiều hơn hai giới ,Nam,Chuyển giới Nam toàn ái đồng tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam toàn ái đồng tính
+999,Nữ ,Nam,Nhiều hơn hai giới ,Nữ,Chuyển giới Nam toàn ái dị tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam toàn ái (mù giới) dị tính
+1000,Nữ ,Nam,Nhiều hơn hai giới ,Nữ,Chuyển giới Nam toàn ái dị tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam toàn ái (không mù giới) dị tính
+1001,Nữ ,Nam,Nhiều hơn hai giới ,Nữ,Chuyển giới Nam toàn ái dị tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam đa ái dị tính
+1002,Nữ ,Nam,Nhiều hơn hai giới ,Nữ,Chuyển giới Nam toàn ái dị tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam toàn ái dị tính
+1003,Nữ ,Nam,Nhiều hơn hai giới ,Nữ và Nam,Chuyển giới Nam toàn ái song tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam toàn ái (mù giới) song tính
+1004,Nữ ,Nam,Nhiều hơn hai giới ,Nữ và Nam,Chuyển giới Nam toàn ái song tính,Có ,Bỏ,Bỏ,Tất cả các giới,Không,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam toàn ái (không mù giới) song tính
+1005,Nữ ,Nam,Nhiều hơn hai giới ,Nữ và Nam,Chuyển giới Nam toàn ái song tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam đa ái song tính
+1006,Nữ ,Nam,Nhiều hơn hai giới ,Nữ và Nam,Chuyển giới Nam toàn ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam toàn ái song tính
+1007,Nữ ,Nam,Nhiều hơn hai giới ,Nữ và giới khác (2 giới),Chuyển giới Nam toàn ái song tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam toàn ái (mù giới) song tính
+1008,Nữ ,Nam,Nhiều hơn hai giới ,Nữ và giới khác (2 giới),Chuyển giới Nam toàn ái song tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam toàn ái (không mù giới) song tính
+1009,Nữ ,Nam,Nhiều hơn hai giới ,Nữ và giới khác (2 giới),Chuyển giới Nam toàn ái song tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam đa ái song tính
+1010,Nữ ,Nam,Nhiều hơn hai giới ,Nữ và giới khác (2 giới),Chuyển giới Nam toàn ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam toàn ái song tính
+1011,Nữ ,Nam,Nhiều hơn hai giới ,Nam và giới khác (2 giới),Chuyển giới Nam toàn ái song tính,Có ,Bỏ,Bỏ,Tất cả các giới,Có,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam toàn ái (mù giới) song tính
+1012,Nữ ,Nam,Nhiều hơn hai giới ,Nam và giới khác (2 giới),Chuyển giới Nam toàn ái song tính,Có ,Bỏ,Bỏ,Tất cả các giới,Không,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam toàn ái (không mù giới) song tính
+1013,Nữ ,Nam,Nhiều hơn hai giới ,Nam và giới khác (2 giới),Chuyển giới Nam toàn ái song tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam đa ái song tính
+1014,Nữ ,Nam,Nhiều hơn hai giới ,Nam và giới khác (2 giới),Chuyển giới Nam toàn ái song tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam toàn ái song tính
+1015,Nữ ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nam toàn tính,Có ,Bỏ,Bỏ,Tất cả các giới,Có,Có,Bỏ,Bỏ,Tất cả các giới,Có,Chuyển giới Nam toàn tính (mù giới)
+1016,Nữ ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nam toàn tính,Có ,Bỏ,Bỏ,Tất cả các giới,Có,Có,Bỏ,Bỏ,Tất cả các giới,Không,Chuyển giới Nam toàn ái (mù giới) toàn tính (không mù giới)
+1017,Nữ ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nam toàn tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Chuyển giới Nam toàn ái đa tính
+1018,Nữ ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nam toàn tính,Có ,Bỏ,Bỏ,Tất cả các giới,Không,Có,Bỏ,Bỏ,Tất cả các giới,Có,Chuyển giới Nam toàn ái  (không mù giới) toàn tính (mù giới)
+1019,Nữ ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nam toàn tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Bỏ,Bỏ,Tất cả các giới,Không,Chuyển giới Nam toàn ái toàn tính (không mù giới)
+1020,Nữ ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nam toàn tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Chuyển giới Nam toàn ái (không mù giới) đa tính
+1021,Nữ ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nam toàn tính,Có ,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Chuyển giới Nam đa ái toàn tính (mù giới)
+1022,Nữ ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nam toàn tính,Có ,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Chuyển giới Nam đa ái toàn tính (không mù giới)
+1023,Nữ ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nam toàn tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Chuyển giới Nam đa tính
+1024,Nữ ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nam toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam toàn tính
+1025,Nữ ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nam toàn tính,Có,Bỏ,Bỏ,Tất cả các giới,Có,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam toán ái (mù giới) toàn tính
+1026,Nữ ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nam toàn tính,Có,Bỏ,Bỏ,Tất cả các giới,Không,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam toàn ái (không mù giới) toàn tính
+1027,Nữ ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nam toàn tính,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Không,Bỏ,Bỏ,Bỏ,Bỏ,Chuyển giới Nam đa ái toàn tính
+1028,Nữ ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nam toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,chuyển giới Nam toàn ái toàn tính (không mù giới)
+1029,Nữ ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nam toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Chuyển giới Nam toàn ái đa tính
+1030,Nữ ,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Chuyển giới Nam toàn tính,Không,Bỏ,Bỏ,Bỏ,Bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Chuyển giới Nam toàn ái toàn tính (mù giới)
+1031,liên giới tính,nữ,Không,Không,Vô tính,Có,Không,Có,bỏ,bỏ,Có,Không,Có,bỏ,bỏ,á tính 
+1032,liên giới tính,nữ,Không,Không,Vô tính,Có,Không,Không,bỏ,bỏ,Có,Không,Không,bỏ,bỏ,á tính 
+1033,liên giới tính,nữ,Không,Không,Vô tính,Có,Không hẳn,Có,bỏ,bỏ,Có,Không hẳn,Có,bỏ,bỏ,Bán vô tính
+1034,liên giới tính,nữ,Không,Không,Vô tính,Có,Không hẳn,Không,bỏ,bỏ,Có,Không hẳn,Không,bỏ,bỏ,Vô tính
+1035,liên giới tính,nữ,Không,Không,Vô tính,Có,Có,Không,bỏ,bỏ,Có,Có,Không,bỏ,bỏ,Vô tính
+1036,liên giới tính,nữ,Không,Không,Vô tính,Có,Có,Có,bỏ,bỏ,Có,Có,Có,bỏ,bỏ,Bán vô tính
+1037,liên giới tính,nữ,Không,Không,Vô tính,Có,Không,Có,bỏ,bỏ,Có,Không,Không,bỏ,bỏ,á tính 
+1038,liên giới tính,nữ,Không,Không,Vô tính,Có,Không,Có,bỏ,bỏ,Có,Không hẳn,Có,bỏ,bỏ,Á ái bán vô tính
+1039,liên giới tính,nữ,Không,Không,Vô tính,Có,Không,Có,bỏ,bỏ,Có,Không hẳn,Không,bỏ,bỏ,Á ái vô tính
+1040,liên giới tính,nữ,Không,Không,Vô tính,Có,Không,Có,bỏ,bỏ,Có,Có,Không,bỏ,bỏ,Á ái vô tính
+1041,liên giới tính,nữ,Không,Không,Vô tính,Có,Không,Có,bỏ,bỏ,Có,Có,Có,bỏ,bỏ,Á ái bán vô tính
+1042,liên giới tính,nữ,Không,Không,Vô tính,Có,Không,Không,bỏ,bỏ,Có,Không,Có,bỏ,bỏ,á tính 
+1043,liên giới tính,nữ,Không,Không,Vô tính,Có,Không,Không,bỏ,bỏ,Có,Không hẳn,Có,bỏ,bỏ,Á ái bán vô tính
+1044,liên giới tính,nữ,Không,Không,Vô tính,Có,Không,Không,bỏ,bỏ,Có,Không hẳn,Không,bỏ,bỏ,Á ái vô tính
+1045,liên giới tính,nữ,Không,Không,Vô tính,Có,Không,Không,bỏ,bỏ,Có,Có,Không,bỏ,bỏ,Á ái vô tính
+1046,liên giới tính,nữ,Không,Không,Vô tính,Có,Không ,Không,bỏ,bỏ,Có,Có,Có,bỏ,bỏ,Á ái bán vô tính
+1047,liên giới tính,nữ,Không,Không,Vô tính,Có,Không hẳn,Có,bỏ,bỏ,Có,Không,Có,bỏ,bỏ,Bán vô ái á tính
+1048,liên giới tính,nữ,Không,Không,Vô tính,Có,Không hẳn,Có,bỏ,bỏ,Có,Không,Không,bỏ,bỏ,Bán vô ái á tính
+1049,liên giới tính,nữ,Không,Không,Vô tính,Có,Không hẳn,Có,bỏ,bỏ,Có,Không hẳn,Không,bỏ,bỏ,Bán vô ái vô tính
+1050,liên giới tính,nữ,Không,Không,Vô tính,Có,Không hẳn,Có,bỏ,bỏ,Có,Có,Không,bỏ,bỏ,Bán vô ái vô tính
+1051,liên giới tính,nữ,Không,Không,Vô tính,Có,Không hẳn,Có,bỏ,bỏ,Có,Có,Có,bỏ,bỏ,Bán vô tính
+1052,liên giới tính,nữ,Không,Không,Vô tính,Có,Không hẳn,Không,bỏ,bỏ,Có,Không,Có,bỏ,bỏ,Vô ái á tính
+1053,liên giới tính,nữ,Không,Không,Vô tính,Có,Không hẳn,Không,bỏ,bỏ,Có,Không,Không,bỏ,bỏ,Vô ái á tính
+1054,liên giới tính,nữ,Không,Không,Vô tính,Có,Không hẳn,Không,bỏ,bỏ,Có,Không hẳn,Có,bỏ,bỏ,Vô ái bán vô tính
+1055,liên giới tính,nữ,Không,Không,Vô tính,Có,Không hẳn,Không,bỏ,bỏ,Có,Có,Không,bỏ,bỏ,Vô tính
+1056,liên giới tính,nữ,Không,Không,Vô tính,Có,Không hẳn,Không,bỏ,bỏ,Có,Có,Có,bỏ,bỏ,Vô ái bán vô tính
+1057,liên giới tính,nữ,Không,Không,Vô tính,Có,Có,Không,bỏ,bỏ,Có,Không,Có,bỏ,bỏ,Vô ái á tính
+1058,liên giới tính,nữ,Không,Không,Vô tính,Có,Có,Không,bỏ,bỏ,Có,Không,Không,bỏ,bỏ,Vô ái á tính
+1059,liên giới tính,nữ,Không,Không,Vô tính,Có,Có,Không,bỏ,bỏ,Có,Không hẳn,Có,bỏ,bỏ,Vô ái bán vô tính
+1060,liên giới tính,nữ,Không,Không,Vô tính,Có,Có,Không,bỏ,bỏ,Có,Không hẳn,Không,bỏ,bỏ,Vô tính
+1061,liên giới tính,nữ,Không,Không,Vô tính,Có,Có,Không,bỏ,bỏ,Có,Có,Có,bỏ,bỏ,Vô ái bán vô tính
+1062,liên giới tính,nữ,Không,Không,Vô tính,Có,Có,Có,bỏ,bỏ,Có,Không,Có,bỏ,bỏ,Bán vô ái á tính
+1063,liên giới tính,nữ,Không,Không,Vô tính,Có,Có,Có,bỏ,bỏ,Có,Không,Không,bỏ,bỏ,Bán vô ái á tính
+1064,liên giới tính,nữ,Không,Không,Vô tính,Có,Có,Có,bỏ,bỏ,Có,Không hẳn,Có,bỏ,bỏ,Bán vô tính
+1065,liên giới tính,nữ,Không,Không,Vô tính,Có,Có,Có,bỏ,bỏ,Có,Không hẳn,Không,bỏ,bỏ,Bán vô ái vô tính
+1066,liên giới tính,nữ,Không,Không,Vô tính,Có,Có,Có,bỏ,bỏ,Có,Có,Không,bỏ,bỏ,Bán vô ái vô tính
+1067,liên giới tính,nữ,Không,Không,Vô tính,Có,Không,Có,bỏ,bỏ,Không,bỏ,bỏ,bỏ,bỏ,Á ái vô tính
+1068,liên giới tính,nữ,Không,Không,Vô tính,Có,Không,Không,bỏ,bỏ,Không,bỏ,bỏ,bỏ,bỏ,Á ái vô tính
+1069,liên giới tính,nữ,Không,Không,Vô tính,Có,Không hẳn,Có,bỏ,bỏ,Không,bỏ,bỏ,bỏ,bỏ,Bán vô ái vô tính
+1070,liên giới tính,nữ,Không,Không,Vô tính,Có,Không hẳn,Không,bỏ,bỏ,Không,bỏ,bỏ,bỏ,bỏ,Vô tính
+1071,liên giới tính,nữ,Không,Không,Vô tính,Có,Có,Không,bỏ,bỏ,Không,Bỏ,bỏ,bỏ,bỏ,Vô tính
+1072,liên giới tính,nữ,Không,Không,Vô tính,Có,Có,Có,bỏ,bỏ,Không,Bỏ,bỏ,bỏ,bỏ,Bán vô ái vô tính
+1073,liên giới tính,nữ,Không,Không,Vô tính,Không,Bỏ,Bỏ,bỏ,bỏ,Có,Không,Có,bỏ,bỏ,Vô ái á tính
+1074,liên giới tính,nữ,Không,Không,Vô tính,Không,Bỏ,Bỏ,bỏ,bỏ,Có,Không,Không,bỏ,bỏ,Vô ái á tính
+1075,liên giới tính,nữ,Không,Không,Vô tính,Không,Bỏ,Bỏ,bỏ,bỏ,Có,Không hẳn,Có,bỏ,bỏ,Vô ái bán vô tính
+1076,liên giới tính,nữ,Không,Không,Vô tính,Không,Bỏ,Bỏ,bỏ,bỏ,Có,Không hẳn,Không,bỏ,bỏ,Vô tính
+1077,liên giới tính,nữ,Không,Không,Vô tính,Không,Bỏ,Bỏ,bỏ,bỏ,Có,Có,Không,bỏ,bỏ,Vô tính
+1078,liên giới tính,nữ,Không,Không,Vô tính,Không,Bỏ,Bỏ,bỏ,bỏ,Có,Có,Có,bỏ,bỏ,Vô ái bán vô tính
+1079,liên giới tính,nữ,Không,Không,Vô tính,Không,bỏ,bỏ,bỏ,bỏ,Không,bỏ,bỏ,bỏ,bỏ,Vô tính
+1080,liên giới tính,nữ,Không,nam,Vô ái dị tính,Có,Không,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái dị tính
+1081,liên giới tính,nữ,Không,nam,Vô ái dị tính,Có,Không,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái dị tính
+1082,liên giới tính,nữ,Không,nam,Vô ái dị tính,Có,Không hẳn,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái dị tính
+1083,liên giới tính,nữ,Không,nam,Vô ái dị tính,Có,Không hẳn,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái dị tính
+1084,liên giới tính,nữ,Không,nam,Vô ái dị tính,Có,Có,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái dị tính
+1085,liên giới tính,nữ,Không,nam,Vô ái dị tính,Có,Có,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái dị tính
+1086,liên giới tính,nữ,Không,nam,Vô ái dị tính,không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái dị tính
+1087,liên giới tính,nữ,Không,nữ,Vô ái đồng tính,Có,Không,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái đồng tính
+1088,liên giới tính,nữ,Không,nữ,Vô ái đồng tính,Có,Không,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái đồng tính
+1089,liên giới tính,nữ,Không,nữ,Vô ái đồng tính,Có,Không hẳn,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái đồng tính
+1090,liên giới tính,nữ,Không,nữ,Vô ái đồng tính,Có,Không hẳn,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái đồng tính
+1091,liên giới tính,nữ,Không,nữ,Vô ái đồng tính,Có,Có,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái đồng tính
+1092,liên giới tính,nữ,Không,nữ,Vô ái đồng tính,Có,Có,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái đồng tính
+1093,liên giới tính,nữ,Không,nữ,Vô ái đồng tính,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái đồng tính
+1094,liên giới tính,nữ,Không,nữ và nam,Vô ái song tính,Có,Không,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái song tính
+1095,liên giới tính,nữ,Không,nữ và nam,Vô ái song tính,Có,Không,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái song tính
+1096,liên giới tính,nữ,Không,nữ và nam,Vô ái song tính,Có,Không hẳn,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái song tính
+1097,liên giới tính,nữ,Không,nữ và nam,Vô ái song tính,Có,Không hẳn,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1098,liên giới tính,nữ,Không,nữ và nam,Vô ái song tính,Có,Có,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1099,liên giới tính,nữ,Không,nữ và nam,Vô ái song tính,Có,Có,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái song tính
+1100,liên giới tính,nữ,Không,nữ và nam,Vô ái song tính,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1101,liên giới tính,nữ,Không,nữ và giới khác (2 giới),Vô ái song tính,Có,Không,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái song tính
+1102,liên giới tính,nữ,Không,nữ và giới khác (2 giới),Vô ái song tính,Có,Không,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái song tính
+1103,liên giới tính,nữ,Không,nữ và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái song tính
+1104,liên giới tính,nữ,Không,nữ và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1105,liên giới tính,nữ,Không,nữ và giới khác (2 giới),Vô ái song tính,Có,Có,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1106,liên giới tính,nữ,Không,nữ và giới khác (2 giới),Vô ái song tính,Có,Có,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái song tính
+1107,liên giới tính,nữ,Không,nữ và giới khác (2 giới),Vô ái song tính,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1108,liên giới tính,nữ,Không,nữ và giới khác (2 giới),Vô ái song tính,Có,Không,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái song tính
+1109,liên giới tính,nữ,Không,nữ và giới khác (2 giới),Vô ái song tính,Có,Không,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái song tính
+1110,liên giới tính,nữ,Không,nữ và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái song tính
+1111,liên giới tính,nữ,Không,nữ và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1112,liên giới tính,nữ,Không,nữ và giới khác (2 giới),Vô ái song tính,Có,Có,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1113,liên giới tính,nữ,Không,nữ và giới khác (2 giới),Vô ái song tính,Có,Có,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái song tính
+1114,liên giới tính,nữ,Không,nữ và giới khác (2 giới),Vô ái song tính,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1115,liên giới tính,nữ,Không,nam và giới khác (2 giới),Vô ái song tính,Có,Không,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái song tính
+1116,liên giới tính,nữ,Không,nam và giới khác (2 giới),Vô ái song tính,Có,Không,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái song tính
+1117,liên giới tính,nữ,Không,nam và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái song tính
+1118,liên giới tính,nữ,Không,nam và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1119,liên giới tính,nữ,Không,nam và giới khác (2 giới),Vô ái song tính,Có,Có,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1120,liên giới tính,nữ,Không,nam và giới khác (2 giới),Vô ái song tính,Có,Có,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái song tính
+1121,liên giới tính,nữ,Không,nam và giới khác (2 giới),Vô ái song tính,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1122,liên giới tính,nữ,Không,nam và giới khác (2 giới),Vô ái song tính,Có,Không,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái song tính
+1123,liên giới tính,nữ,Không,nam và giới khác (2 giới),Vô ái song tính,Có,Không,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái song tính
+1124,liên giới tính,nữ,Không,nam và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái song tính
+1125,liên giới tính,nữ,Không,nam và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1126,liên giới tính,nữ,Không,nam và giới khác (2 giới),Vô ái song tính,Có,Có,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1127,liên giới tính,nữ,Không,nam và giới khác (2 giới),Vô ái song tính,Có,Có,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái song tính
+1128,liên giới tính,nữ,Không,nam và giới khác (2 giới),Vô ái song tính,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1129,liên giới tính,nữ,Không,nam và giới khác (2 giới),Vô ái song tính,Có,Không,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái song tính
+1130,liên giới tính,nữ,Không,nam và giới khác (2 giới),Vô ái song tính,Có,Không,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái song tính
+1131,liên giới tính,nữ,Không,nam và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái song tính
+1132,liên giới tính,nữ,Không,nam và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1133,liên giới tính,nữ,Không,nam và giới khác (2 giới),Vô ái song tính,Có,Có,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1134,liên giới tính,nữ,Không,nam và giới khác (2 giới),Vô ái song tính,Có,Có,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái song tính
+1135,liên giới tính,nữ,Không,nam và giới khác (2 giới),Vô ái song tính,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1136,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Có,bỏ,bỏ,không,không,không,bỏ,bỏ,Á ái toàn tính
+1137,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Không,bỏ,bỏ,không,không,không,bỏ,bỏ,Á ái toàn tính
+1138,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Có,bỏ,bỏ,không,không,không,bỏ,bỏ,Bán vô ái toàn tính
+1139,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Không,bỏ,bỏ,không,không,không,bỏ,bỏ,Vô ái toàn tính
+1140,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Có,Không,bỏ,bỏ,không,không,không,bỏ,bỏ,Vô ái toàn tính
+1141,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Có,Có,bỏ,bỏ,không,không,không,bỏ,bỏ,Bán vô ái toàn  tính
+1142,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Không,Bỏ,Bỏ,bỏ,bỏ,Có,Có,Có,Tất cả các giới,Có,Vô ái toàn tính (mù giới)
+1143,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Không,Bỏ,Bỏ,bỏ,bỏ,Có,Có,Có,Tất cả các giới,Không,Vô ái toàn tính (không mù giới)
+1144,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Không,Bỏ,Bỏ,bỏ,bỏ,Có,Có,Có,Nhiều hơn hai giới,Bỏ,Vô ái đa tính
+1145,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Không,Bỏ,Bỏ,bỏ,bỏ,không,bỏ,bỏ ,bỏ,bỏ,Vô ái toàn tính
+1146,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Có,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Á ái toàn tính (mù giới)
+1147,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Có,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Á ái toàn tính (không mù giới)
+1148,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Có,bỏ,bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Á ái đa tính
+1149,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Không,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Á ái toàn tính (mù giới)
+1150,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Không,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Á ái toàn tính (không mù giới)
+1151,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Không,bỏ,bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Á ái đa tính
+1152,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Có,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Bán vô ái toàn tính (mù giới)
+1153,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Có,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Bán vô ái toàn tính (không mù giới)
+1154,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Có,bỏ,bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Bán vô ái đa tính
+1155,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Không,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Vô ái toàn tính (mù giới)
+1156,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Không,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Vô ái toàn tính (không mù giới)
+1157,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Không,bỏ,bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Vô ái đa tính
+1158,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Có,Không,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Vô ái toàn tính (mù giới)
+1159,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Có,Không,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Vô ái toàn tính (không mù giới)
+1160,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Có,Không,bỏ,bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Vô ái đa tính
+1161,liên giới tính,nữ,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Có,Có,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Bán vô ái toàn tính (mù giới)
+1162,liên giới tính,nữ,nam,Không ,Dị ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Không,Có,bỏ,bỏ,Dị ái á tính
+1163,liên giới tính,nữ,nam,Không ,Dị ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Không,Không,bỏ,bỏ,Dị ái á tính
+1164,liên giới tính,nữ,nam,Không ,Dị ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Không hẳn,Có,bỏ,bỏ,Dị ái bán vô tính
+1165,liên giới tính,nữ,nam,Không ,Dị ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Không hẳn,Không,bỏ,bỏ,Dị ái vô tính
+1166,liên giới tính,nữ,nam,Không ,Dị ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Có,Không,bỏ,bỏ,Dị ái vô tính
+1167,liên giới tính,nữ,nam,Không ,Dị ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Có,Có,bỏ,bỏ,Dị ái bán vô tính
+1168,liên giới tính,nữ,nam,Không ,Dị ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Không,Bỏ,bỏ ,bỏ,bỏ,Dị ái vô tính
+1169,liên giới tính,nữ,nữ,Không ,Đồng ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Không,Có,bỏ,bỏ,Đồng ái á tính
+1170,liên giới tính,nữ,nữ,Không ,Đồng ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Không,Không,bỏ,bỏ,Đồng ái ái á tính
+1171,liên giới tính,nữ,nữ,Không ,Đồng ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Không hẳn,Có,bỏ,bỏ,Đồng ái bán vô tính
+1172,liên giới tính,nữ,nữ,Không ,Đồng ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Không hẳn,Không,bỏ,bỏ,Đồng ái vô tính
+1173,liên giới tính,nữ,nữ,Không ,Đồng ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Có,Không,bỏ,bỏ,Đồng ái vô tính
+1174,liên giới tính,nữ,nữ,Không ,Đồng ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Có,Có,bỏ,bỏ,Đồng ái bán vô tính
+1175,liên giới tính,nữ,nữ,Không ,Đồng ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Không,Bỏ,bỏ ,bỏ,bỏ,Đồng ái vô tính
+1176,liên giới tính,nữ,nữ và nam,Không ,Song ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Không,Có,bỏ,bỏ,Song ái á tính
+1177,liên giới tính,nữ,nữ và nam,Không ,Song ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Không,Không,bỏ,bỏ,Song ái ái á tính
+1178,liên giới tính,nữ,nữ và nam,Không ,Song ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Không hẳn,Có,bỏ,bỏ,Song ái bán vô tính
+1179,liên giới tính,nữ,nữ và nam,Không ,Song ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Không hẳn,Không,bỏ,bỏ,Song ái vô tính
+1180,liên giới tính,nữ,nữ và nam,Không ,Song ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Có,Không,bỏ,bỏ,Song ái vô tính
+1181,liên giới tính,nữ,nữ và nam,Không ,Song ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Có,Có,bỏ,bỏ,Song ái bán vô tính
+1182,liên giới tính,nữ,nữ và nam,Không ,Song ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Không,Bỏ,bỏ ,bỏ,bỏ,Song ái vô tính
+1183,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,bỏ,bỏ,bỏ,bỏ,Có,Không,Có,bỏ,bỏ,Toàn ái á tính
+1184,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,bỏ,bỏ,bỏ,bỏ,Có,Không,Không,bỏ,bỏ,Toàn ái ái á tính
+1185,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,bỏ,bỏ,bỏ,bỏ,Có,Không hẳn,Có,bỏ,bỏ,Toàn ái bán vô tính
+1186,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,bỏ,bỏ,bỏ,bỏ,Có,Không hẳn,Không,bỏ,bỏ,Toàn ái vô tính
+1187,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,bỏ,bỏ,bỏ,bỏ,Có,Có,Không,bỏ,bỏ,Toàn ái vô tính
+1188,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,bỏ,bỏ,bỏ,bỏ,Có,Có,Có,bỏ,bỏ,Toàn ái bán vô tính
+1189,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,bỏ,bỏ,bỏ,bỏ,Không,Bỏ,bỏ ,bỏ,bỏ,Toàn ái vô tính
+1190,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Có,Không,,,bỏ,bỏ,Toàn ái (mù giới) vô tính
+1191,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Không,Không,,,bỏ,bỏ,Toàn ái (không mù giới) vô tính
+1192,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Không,,,bỏ,bỏ,Đa ái vô tính
+1193,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Có,Có,Không,Có,bỏ,bỏ,Toàn ái (mù giới) á tính
+1194,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Có,Có,Không,Không,bỏ,bỏ,Toàn ái (mù giới) á tính
+1195,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Có,Có,Không hẳn,Có,bỏ,bỏ,Toàn ái (mù giới) bán vô tính
+1196,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Có,Có,Không hẳn,Không,bỏ,bỏ,Toàn ái (mù giới) vô tính
+1197,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Có,Có,Có,Không,bỏ,bỏ,Toàn ái (mù giới) vô tính
+1198,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Có,Có,Có,Có,bỏ,bỏ,Toàn ái (mù giới) bán vô tính
+1199,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Không,Có,Không,Có,bỏ,bỏ,Toàn ái (không mù giới) á tính
+1200,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Không,Có,Không,Không,bỏ,bỏ,Toàn ái (không mù giới) á tính
+1201,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Không,Có,Không hẳn,Có,bỏ,bỏ,Toàn ái (không mù giới) bán vô tính
+1202,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Không,Có,Không hẳn,Không,bỏ,bỏ,Toàn ái (không mù giới) vô tính
+1203,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Không,Có,Có,Không,bỏ,bỏ,Toàn ái (không mù giới) vô tính
+1204,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Không,Có,Có,Có,bỏ,bỏ,Toàn ái (không mù giới) bán vô tính
+1205,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Có,Không,Có,bỏ,bỏ,Đa ái á tính
+1206,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Có,Không,Không,bỏ,bỏ,Đa ái á tính
+1207,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Có,Không hẳn,Có,bỏ,bỏ,Đa ái bán vô tính
+1208,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Có,Không hẳn,Không,bỏ,bỏ,Đa ái vô tính
+1209,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Có,Có,Không,bỏ,bỏ,Đa ái vô tính
+1210,liên giới tính,nữ,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Có,Có,Có,bỏ,bỏ,Đa ái bán vô tính
+1211,liên giới tính,nữ,nam,nam,Dị tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Dị tính
+1212,liên giới tính,nữ,nam,nữ,Dị ái đồng tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Dị ái đồng tính
+1213,liên giới tính,nữ,nam,nữ và nam,Dị ái song tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Dị ái song tính
+1214,liên giới tính,nữ,nam,nữ và giới khác (2 giới),Dị ái song tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Dị ái song tính
+1215,liên giới tính,nữ,nam,nam và giới khác (2 giới),Dị ái song tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Dị ái song tính
+1216,liên giới tính,nữ,nam,Nhiều hơn hai giới ,Dị ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,bỏ,bỏ,Tất cả các giới,Có,Dị ái toàn tính (mù giới)
+1217,liên giới tính,nữ,nam,Nhiều hơn hai giới ,Dị ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,bỏ,bỏ,Tất cả các giới,Không,Dị ái toàn tính (không mù giới)
+1218,liên giới tính,nữ,nam,Nhiều hơn hai giới ,Dị ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Dị ái đa tính
+1219,liên giới tính,nữ,nam,Nhiều hơn hai giới ,Dị ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Không,bỏ,bỏ,bỏ,bỏ,Dị ái toàn tính
+1220,liên giới tính,nữ,nữ,nam,Đống ái dị tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Đống ái dị tính
+1221,liên giới tính,nữ,nữ,nữ,Đồng tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Đồng tính
+1222,liên giới tính,toàn,nữ,nữ và nam,Đồng ái song tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Đồng ái song tính
+1223,liên giới tính,nữ,nữ,nữ và giới khác (2 giới),Đồng ái song tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Đồng ái song tính
+1224,liên giới tính,nữ,nữ,nam và giới khác (2 giới),Đồng ái song tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Đồng ái song tính
+1225,liên giới tính,nữ,nữ,Nhiều hơn hai giới ,Đồng ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,có,bỏ,bỏ,Tất cả các giới,Có,Đồng ái toàn tính (mù giới)
+1226,liên giới tính,nữ,nữ,Nhiều hơn hai giới ,Đồng ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,có,bỏ,bỏ,Tất cả các giới,Không,Đồng ái toàn tính (không mù giới)
+1227,liên giới tính,nữ,nữ,Nhiều hơn hai giới ,Đồng ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Đồng ái đa tính
+1228,liên giới tính,nữ,nữ,Nhiều hơn hai giới ,Đồng ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Không,bỏ,bỏ,bỏ,bỏ,Đồng ái toàn tính (không mù giới)
+1229,liên giới tính,nữ,nữ và nam,nam,Song ái dị tính,bỏ,bỏ,bỏ,bỏ,bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song ái dị tính
+1230,liên giới tính,nữ,nữ và nam,nữ,Song ái đồng tính,bỏ,bỏ,bỏ,bỏ,bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song ái đồng tính
+1231,liên giới tính,nữ,nữ và nam,nữ và nam,Song tính,bỏ,bỏ,bỏ,bỏ,bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song tính
+1232,liên giới tính,nữ,nữ và nam,nữ và giới khác (2 giới),Song tính,bỏ,bỏ,bỏ,bỏ,bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song tính
+1233,liên giới tính,nữ,nữ và nam,nam và giới khác (2 giới),Song tính,bỏ,bỏ,bỏ,bỏ,bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song tính
+1234,liên giới tính,nữ,nữ và nam,Nhiều hơn hai giới ,Song ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Song ái toàn tính (mù giới)
+1235,liên giới tính,nữ,nữ và nam,Nhiều hơn hai giới ,Song ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Song ái toàn tính (không mù giới)
+1236,liên giới tính,nữ,nữ và nam,Nhiều hơn hai giới ,Song ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Đa ái toàn tính
+1237,liên giới tính,nữ,nữ và nam,Nhiều hơn hai giới ,Song ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Không,bỏ,bỏ,bỏ,bỏ,Song ái toàn tính
+1238,liên giới tính,nữ,nữ và giới khác (2 giới),nam,Song ái dị tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Song ái dị tính
+1239,liên giới tính,nữ,nữ và giới khác (2 giới),nữ,Song ái đồng tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Song ái đồng tính
+1240,liên giới tính,nữ,nữ và giới khác (2 giới),nữ và nam,Song tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Song tính
+1241,liên giới tính,nữ,nữ và giới khác (2 giới),nữ và giới khác (2 giới),Song tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Song tính
+1242,liên giới tính,nữ,nữ và giới khác (2 giới),nam và giới khác (2 giới),Song tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Song tính
+1243,liên giới tính,nữ,nữ và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Tất cả các giới,Có,bỏ,bỏ,Song ái toàn tính (mù giới)
+1244,liên giới tính,nữ,nữ và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Tất cả các giới,Không,bỏ,bỏ,Song ái toàn tính (không mù giới)
+1245,liên giới tính,nữ,nữ và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Nhiều hơn hai giới,Bỏ,bỏ,bỏ,Đa ái toàn tính
+1246,liên giới tính,nữ,nữ và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Không,bỏ,bỏ,bỏ,bỏ,Song ái toàn tính
+1247,liên giới tính,nữ,nam và giới khác (2 giới),nam,Song ái dị tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Song ái dị tính
+1248,liên giới tính,nữ,nam và giới khác (2 giới),nữ,Song ái đồng tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Song ái đồng tính
+1249,liên giới tính,nữ,nam và giới khác (2 giới),nữ và nam,Song tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Song tính
+1250,liên giới tính,nữ,nam và giới khác (2 giới),nữ và giới khác (2 giới),Song tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Song tính
+1251,liên giới tính,nữ,nam và giới khác (2 giới),nam và giới khác (2 giới),Song tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Song tính
+1252,liên giới tính,nữ,nam và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Tất cả các giới,Có,bỏ,bỏ,Song ái toàn tính (mù giới)
+1253,liên giới tính,nữ,nam và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Tất cả các giới,Không,bỏ,bỏ,Song ái toàn tính (không mù giới)
+1254,liên giới tính,nữ,nam và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Nhiều hơn hai giới,Bỏ,bỏ,bỏ,Đa ái toàn tính
+1255,liên giới tính,nữ,nam và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Không,bỏ,bỏ,bỏ,bỏ,Song ái toàn tính
+1256,liên giới tính,nữ,Nhiều hơn hai giới ,nam,Toàn ái dị tính,Có,bỏ,bỏ,Tất cả các giới,Có,Không,bỏ,bỏ,bỏ,bỏ,Toàn ái (mù giới) dị tính
+1257,liên giới tính,nữ,Nhiều hơn hai giới ,nam,Toàn ái dị tính,Có,bỏ,bỏ,Tất cả các giới,Không,Không,bỏ,bỏ,bỏ,bỏ,Toàn ái (không mù giới) dị tính
+1258,liên giới tính,nữ,Nhiều hơn hai giới ,nam,Toàn ái dị tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Không,bỏ,bỏ,bỏ,bỏ,Đa ái dị tính
+1259,liên giới tính,nữ,Nhiều hơn hai giới ,nam,Toàn ái dị tính,Không,bỏ,bỏ,bỏ,Bỏ,không,bỏ,bỏ,bỏ,bỏ,Toàn ái dị tính
+1260,liên giới tính,nữ,Nhiều hơn hai giới ,nữ,Toàn ái đồng tính,Có,bỏ,bỏ,Tất cả các giới,Có,không,bỏ,bỏ,bỏ,bỏ,Toàn ái (mù giới) đồng tính
+1261,liên giới tính,nữ,Nhiều hơn hai giới ,nữ,Toàn ái đồng tính,Có,bỏ,bỏ,Tất cả các giới,Không,không,bỏ,bỏ,bỏ,bỏ,Toàn ái (không mù giới) đồng tính
+1262,liên giới tính,nữ,Nhiều hơn hai giới ,nữ,Toàn ái đồng tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,không,bỏ,bỏ,bỏ,bỏ,Đa ái đồng tính
+1263,liên giới tính,nữ,Nhiều hơn hai giới ,nữ,Toàn ái đồng tính,Không,bỏ,bỏ,bỏ,Bỏ,không,bỏ,bỏ,bỏ,bỏ,Toàn ái đồng tính
+1264,liên giới tính,nữ,Nhiều hơn hai giới ,nữ và nam,Toàn ái song tính,Có,bỏ,bỏ,Tất cả các giới,Có,không,bỏ,bỏ,bỏ,bỏ,Toàn ái (mù giới) song tính
+1265,liên giới tính,nữ,Nhiều hơn hai giới ,nữ và nam,Toàn ái song tính,Có ,bỏ,bỏ,Tất cả các giới,Không,không,bỏ,bỏ,bỏ,bỏ,Toàn ái (không mù giới) song tính
+1266,liên giới tính,nữ,Nhiều hơn hai giới ,nữ và nam,Toàn ái song tính,có ,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,không,bỏ,bỏ,bỏ,bỏ,Đa ái song tính
+1267,liên giới tính,nữ,Nhiều hơn hai giới ,nữ và giới khác (2 giới),Toàn ái song tính,Không,bỏ,bỏ,bỏ,Bỏ,không,bỏ,bỏ,bỏ,bỏ,Toàn ái song tính
+1268,liên giới tính,nữ,Nhiều hơn hai giới ,nữ và giới khác (2 giới),Toàn ái song tính,Có,bỏ,bỏ,Tất cả các giới,Có,không,bỏ,bỏ,bỏ,bỏ,Toàn ái (mù giới) song tính
+1269,liên giới tính,nữ,Nhiều hơn hai giới ,nữ và giới khác (2 giới),Toàn ái song tính,Có,bỏ,bỏ,Tất cả các giới,Không,không,bỏ,bỏ,bỏ,bỏ,Toàn ái (không mù giới) song tính
+1270,liên giới tính,nữ,Nhiều hơn hai giới ,nữ và giới khác (2 giới),Toàn ái song tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,không,bỏ,bỏ,bỏ,bỏ,Đa ái song tính
+1271,liên giới tính,nữ,Nhiều hơn hai giới ,nam và giới khác (2 giới),Toàn ái song tính,Không,bỏ,bỏ,bỏ,Bỏ,không,bỏ,bỏ,bỏ,bỏ,Toàn ái song tính
+1272,liên giới tính,nữ,Nhiều hơn hai giới ,nam và giới khác (2 giới),Toàn ái song tính,Có ,bỏ,bỏ,Tất cả các giới,Có,không,bỏ,bỏ,bỏ,bỏ,Toàn ái (mù giới) song tính
+1273,liên giới tính,nữ,Nhiều hơn hai giới ,nam và giới khác (2 giới),Toàn ái song tính,Có ,bỏ,bỏ,Tất cả các giới,Không,không,bỏ,bỏ,bỏ,bỏ,Toàn ái (không mù giới) song tính
+1274,liên giới tính,nữ,Nhiều hơn hai giới ,nam và giới khác (2 giới),Toàn ái song tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,không,bỏ,bỏ,bỏ,bỏ,Đa ái song tính
+1275,liên giới tính,nữ,Nhiều hơn hai giới ,nam và giới khác (2 giới),Toàn ái song tính,Không,bỏ,bỏ,bỏ,Bỏ,không,bỏ,bỏ,bỏ,bỏ,Toàn ái song tính
+1276,liên giới tính,nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có ,bỏ,bỏ,Tất cả các giới,Có,Có,bỏ,bỏ,Tất cả các giới,Có,Toàn tính (mù giới)
+1277,liên giới tính,nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có ,bỏ,bỏ,Tất cả các giới,Có,Có,bỏ,bỏ,Tất cả các giới,Không,Toàn ái (mù giới) toàn tính (không mù giới)
+1278,liên giới tính,nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có,bỏ,bỏ,Tất cả các giới,Có,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Toàn ái đa tính
+1279,liên giới tính,nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có ,bỏ,bỏ,Tất cả các giới,Không,Có,bỏ,bỏ,Tất cả các giới,Có,Toàn ái  (không mù giới) toàn tính (mù giới)
+1280,liên giới tính,nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có,bỏ,bỏ,Tất cả các giới,Không,Có,bỏ,bỏ,Tất cả các giới,Không,Toàn ái toàn tính (không mù giới)
+1281,liên giới tính,nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Không,bỏ,bỏ,Tất cả các giới,Không,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Toàn ái (không mù giới) đa tính
+1282,liên giới tính,nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có ,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Có,bỏ,bỏ,Tất cả các giới,Có,Đa ái toàn tính (mù giới)
+1283,liên giới tính,nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có ,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Có,bỏ,bỏ,Tất cả các giới,Không,Đa ái toàn tính (không mù giới)
+1284,liên giới tính,nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Đa tính
+1285,liên giới tính,nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Không,bỏ,bỏ,bỏ,bỏ,không,bỏ,bỏ,bỏ,bỏ,Toàn tính
+1286,liên giới tính,nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có,bỏ,bỏ,Tất cả các giới,Có,Không,bỏ,bỏ,bỏ,bỏ,Toán ái (mù giới) toàn tính
+1287,liên giới tính,nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có,bỏ,bỏ,Tất cả các giới,Không,Không,bỏ,bỏ,bỏ,bỏ,Toàn ái (không mù giới) toàn tính
+1288,liên giới tính,nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Không,bỏ,bỏ,bỏ,bỏ,Đa ái toàn tính
+1289,liên giới tính,nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Không,bỏ,bỏ,bỏ,bỏ,Có,bỏ,bỏ,Tất cả các giới,Không,Toàn ái toàn tính (không mù giới)
+1290,liên giới tính,nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Không,bỏ,bỏ,bỏ,bỏ,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Toàn ái đa tính
+1291,liên giới tính,nữ,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Không,bỏ,bỏ,bỏ,bỏ,Có,bỏ,bỏ,Tất cả các giới,Có,Toàn ái toàn tính (mù giới)
+1292,liên giới tính,Nam,Không,Không,Vô tính,Có,Không,Có,bỏ,bỏ,Có,Không,Có,bỏ,bỏ,á tính 
+1293,liên giới tính,Nam,Không,Không,Vô tính,Có,Không,Không,bỏ,bỏ,Có,Không,Không,bỏ,bỏ,á tính 
+1294,liên giới tính,Nam,Không,Không,Vô tính,Có,Không hẳn,Có,bỏ,bỏ,Có,Không hẳn,Có,bỏ,bỏ,Bán vô tính
+1295,liên giới tính,Nam,Không,Không,Vô tính,Có,Không hẳn,Không,bỏ,bỏ,Có,Không hẳn,Không,bỏ,bỏ,Vô tính
+1296,liên giới tính,Nam,Không,Không,Vô tính,Có,Có,Không,bỏ,bỏ,Có,Có,Không,bỏ,bỏ,Vô tính
+1297,liên giới tính,Nam,Không,Không,Vô tính,Có,Có,Có,bỏ,bỏ,Có,Có,Có,bỏ,bỏ,Bán vô tính
+1298,liên giới tính,Nam,Không,Không,Vô tính,Có,Không,Có,bỏ,bỏ,Có,Không,Không,bỏ,bỏ,á tính 
+1299,liên giới tính,Nam,Không,Không,Vô tính,Có,Không,Có,bỏ,bỏ,Có,Không hẳn,Có,bỏ,bỏ,Á ái bán vô tính
+1300,liên giới tính,Nam,Không,Không,Vô tính,Có,Không,Có,bỏ,bỏ,Có,Không hẳn,Không,bỏ,bỏ,Á ái vô tính
+1301,liên giới tính,Nam,Không,Không,Vô tính,Có,Không,Có,bỏ,bỏ,Có,Có,Không,bỏ,bỏ,Á ái vô tính
+1302,liên giới tính,Nam,Không,Không,Vô tính,Có,Không,Có,bỏ,bỏ,Có,Có,Có,bỏ,bỏ,Á ái bán vô tính
+1303,liên giới tính,Nam,Không,Không,Vô tính,Có,Không,Không,bỏ,bỏ,Có,Không,Có,bỏ,bỏ,á tính 
+1304,liên giới tính,Nam,Không,Không,Vô tính,Có,Không,Không,bỏ,bỏ,Có,Không hẳn,Có,bỏ,bỏ,Á ái bán vô tính
+1305,liên giới tính,Nam,Không,Không,Vô tính,Có,Không,Không,bỏ,bỏ,Có,Không hẳn,Không,bỏ,bỏ,Á ái vô tính
+1306,liên giới tính,Nam,Không,Không,Vô tính,Có,Không,Không,bỏ,bỏ,Có,Có,Không,bỏ,bỏ,Á ái vô tính
+1307,liên giới tính,Nam,Không,Không,Vô tính,Có,Không ,Không,bỏ,bỏ,Có,Có,Có,bỏ,bỏ,Á ái bán vô tính
+1308,liên giới tính,Nam,Không,Không,Vô tính,Có,Không hẳn,Có,bỏ,bỏ,Có,Không,Có,bỏ,bỏ,Bán vô ái á tính
+1309,liên giới tính,Nam,Không,Không,Vô tính,Có,Không hẳn,Có,bỏ,bỏ,Có,Không,Không,bỏ,bỏ,Bán vô ái á tính
+1310,liên giới tính,Nam,Không,Không,Vô tính,Có,Không hẳn,Có,bỏ,bỏ,Có,Không hẳn,Không,bỏ,bỏ,Bán vô ái vô tính
+1311,liên giới tính,Nam,Không,Không,Vô tính,Có,Không hẳn,Có,bỏ,bỏ,Có,Có,Không,bỏ,bỏ,Bán vô ái vô tính
+1312,liên giới tính,Nam,Không,Không,Vô tính,Có,Không hẳn,Có,bỏ,bỏ,Có,Có,Có,bỏ,bỏ,Bán vô tính
+1313,liên giới tính,Nam,Không,Không,Vô tính,Có,Không hẳn,Không,bỏ,bỏ,Có,Không,Có,bỏ,bỏ,Vô ái á tính
+1314,liên giới tính,Nam,Không,Không,Vô tính,Có,Không hẳn,Không,bỏ,bỏ,Có,Không,Không,bỏ,bỏ,Vô ái á tính
+1315,liên giới tính,Nam,Không,Không,Vô tính,Có,Không hẳn,Không,bỏ,bỏ,Có,Không hẳn,Có,bỏ,bỏ,Vô ái bán vô tính
+1316,liên giới tính,Nam,Không,Không,Vô tính,Có,Không hẳn,Không,bỏ,bỏ,Có,Có,Không,bỏ,bỏ,Vô tính
+1317,liên giới tính,Nam,Không,Không,Vô tính,Có,Không hẳn,Không,bỏ,bỏ,Có,Có,Có,bỏ,bỏ,Vô ái bán vô tính
+1318,liên giới tính,Nam,Không,Không,Vô tính,Có,Có,Không,bỏ,bỏ,Có,Không,Có,bỏ,bỏ,Vô ái á tính
+1319,liên giới tính,Nam,Không,Không,Vô tính,Có,Có,Không,bỏ,bỏ,Có,Không,Không,bỏ,bỏ,Vô ái á tính
+1320,liên giới tính,Nam,Không,Không,Vô tính,Có,Có,Không,bỏ,bỏ,Có,Không hẳn,Có,bỏ,bỏ,Vô ái bán vô tính
+1321,liên giới tính,Nam,Không,Không,Vô tính,Có,Có,Không,bỏ,bỏ,Có,Không hẳn,Không,bỏ,bỏ,Vô tính
+1322,liên giới tính,Nam,Không,Không,Vô tính,Có,Có,Không,bỏ,bỏ,Có,Có,Có,bỏ,bỏ,Vô ái bán vô tính
+1323,liên giới tính,Nam,Không,Không,Vô tính,Có,Có,Có,bỏ,bỏ,Có,Không,Có,bỏ,bỏ,Bán vô ái á tính
+1324,liên giới tính,Nam,Không,Không,Vô tính,Có,Có,Có,bỏ,bỏ,Có,Không,Không,bỏ,bỏ,Bán vô ái á tính
+1325,liên giới tính,Nam,Không,Không,Vô tính,Có,Có,Có,bỏ,bỏ,Có,Không hẳn,Có,bỏ,bỏ,Bán vô tính
+1326,liên giới tính,Nam,Không,Không,Vô tính,Có,Có,Có,bỏ,bỏ,Có,Không hẳn,Không,bỏ,bỏ,Bán vô ái vô tính
+1327,liên giới tính,Nam,Không,Không,Vô tính,Có,Có,Có,bỏ,bỏ,Có,Có,Không,bỏ,bỏ,Bán vô ái vô tính
+1328,liên giới tính,Nam,Không,Không,Vô tính,Có,Không,Có,bỏ,bỏ,Không,bỏ,bỏ,bỏ,bỏ,Á ái vô tính
+1329,liên giới tính,Nam,Không,Không,Vô tính,Có,Không,Không,bỏ,bỏ,Không,bỏ,bỏ,bỏ,bỏ,Á ái vô tính
+1330,liên giới tính,Nam,Không,Không,Vô tính,Có,Không hẳn,Có,bỏ,bỏ,Không,bỏ,bỏ,bỏ,bỏ,Bán vô ái vô tính
+1331,liên giới tính,Nam,Không,Không,Vô tính,Có,Không hẳn,Không,bỏ,bỏ,Không,bỏ,bỏ,bỏ,bỏ,Vô tính
+1332,liên giới tính,Nam,Không,Không,Vô tính,Có,Có,Không,bỏ,bỏ,Không,Bỏ,bỏ,bỏ,bỏ,Vô tính
+1333,liên giới tính,Nam,Không,Không,Vô tính,Có,Có,Có,bỏ,bỏ,Không,Bỏ,bỏ,bỏ,bỏ,Bán vô ái vô tính
+1334,liên giới tính,Nam,Không,Không,Vô tính,Không,Bỏ,Bỏ,bỏ,bỏ,Có,Không,Có,bỏ,bỏ,Vô ái á tính
+1335,liên giới tính,Nam,Không,Không,Vô tính,Không,Bỏ,Bỏ,bỏ,bỏ,Có,Không,Không,bỏ,bỏ,Vô ái á tính
+1336,liên giới tính,Nam,Không,Không,Vô tính,Không,Bỏ,Bỏ,bỏ,bỏ,Có,Không hẳn,Có,bỏ,bỏ,Vô ái bán vô tính
+1337,liên giới tính,Nam,Không,Không,Vô tính,Không,Bỏ,Bỏ,bỏ,bỏ,Có,Không hẳn,Không,bỏ,bỏ,Vô tính
+1338,liên giới tính,Nam,Không,Không,Vô tính,Không,Bỏ,Bỏ,bỏ,bỏ,Có,Có,Không,bỏ,bỏ,Vô tính
+1339,liên giới tính,Nam,Không,Không,Vô tính,Không,Bỏ,Bỏ,bỏ,bỏ,Có,Có,Có,bỏ,bỏ,Vô ái bán vô tính
+1340,liên giới tính,Nam,Không,Không,Vô tính,Không,bỏ,bỏ,bỏ,bỏ,Không,bỏ,bỏ,bỏ,bỏ,Vô tính
+1341,liên giới tính,Nam,Không,Nữ,Vô ái dị tính,Có,Không,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái dị tính
+1342,liên giới tính,Nam,Không,Nữ,Vô ái dị tính,Có,Không,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái dị tính
+1343,liên giới tính,Nam,Không,Nữ,Vô ái dị tính,Có,Không hẳn,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái dị tính
+1344,liên giới tính,Nam,Không,Nữ,Vô ái dị tính,Có,Không hẳn,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái dị tính
+1345,liên giới tính,Nam,Không,Nữ,Vô ái dị tính,Có,Có,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái dị tính
+1346,liên giới tính,Nam,Không,Nữ,Vô ái dị tính,Có,Có,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái dị tính
+1347,liên giới tính,Nam,Không,Nữ,Vô ái dị tính,không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái dị tính
+1348,liên giới tính,Nam,Không,Nam,Vô ái đồng tính,Có,Không,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái đồng tính
+1349,liên giới tính,Nam,Không,Nam,Vô ái đồng tính,Có,Không,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái đồng tính
+1350,liên giới tính,Nam,Không,Nam,Vô ái đồng tính,Có,Không hẳn,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái đồng tính
+1351,liên giới tính,Nam,Không,Nam,Vô ái đồng tính,Có,Không hẳn,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái đồng tính
+1352,liên giới tính,Nam,Không,Nam,Vô ái đồng tính,Có,Có,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái đồng tính
+1353,liên giới tính,Nam,Không,Nam,Vô ái đồng tính,Có,Có,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái đồng tính
+1354,liên giới tính,Nam,Không,Nam,Vô ái đồng tính,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái đồng tính
+1355,liên giới tính,Nam,Không,Nam và Nữ,Vô ái song tính,Có,Không,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái song tính
+1356,liên giới tính,Nam,Không,Nam và Nữ,Vô ái song tính,Có,Không,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái song tính
+1357,liên giới tính,Nam,Không,Nam và Nữ,Vô ái song tính,Có,Không hẳn,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái song tính
+1358,liên giới tính,Nam,Không,Nam và Nữ,Vô ái song tính,Có,Không hẳn,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1359,liên giới tính,Nam,Không,Nam và Nữ,Vô ái song tính,Có,Có,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1360,liên giới tính,Nam,Không,Nam và Nữ,Vô ái song tính,Có,Có,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái song tính
+1361,liên giới tính,Nam,Không,Nam và Nữ,Vô ái song tính,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1362,liên giới tính,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái song tính
+1363,liên giới tính,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái song tính
+1364,liên giới tính,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái song tính
+1365,liên giới tính,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1366,liên giới tính,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Có,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1367,liên giới tính,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Có,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái song tính
+1368,liên giới tính,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1369,liên giới tính,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái song tính
+1370,liên giới tính,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái song tính
+1371,liên giới tính,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái song tính
+1372,liên giới tính,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1373,liên giới tính,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Có,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1374,liên giới tính,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Có,Có,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái song tính
+1375,liên giới tính,Nam,Không,Nam và giới khác (2 giới),Vô ái song tính,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1376,liên giới tính,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái song tính
+1377,liên giới tính,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái song tính
+1378,liên giới tính,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái song tính
+1379,liên giới tính,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1380,liên giới tính,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Có,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1381,liên giới tính,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Có,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái song tính
+1382,liên giới tính,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1383,liên giới tính,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái song tính
+1384,liên giới tính,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái song tính
+1385,liên giới tính,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái song tính
+1386,liên giới tính,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1387,liên giới tính,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Có,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1388,liên giới tính,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Có,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái song tính
+1389,liên giới tính,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1390,liên giới tính,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái song tính
+1391,liên giới tính,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Á ái song tính
+1392,liên giới tính,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái song tính
+1393,liên giới tính,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Không hẳn,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1394,liên giới tính,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Có,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1395,liên giới tính,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Có,Có,Có,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Bán vô ái song tính
+1396,liên giới tính,Nam,Không,Nữ và giới khác (2 giới),Vô ái song tính,Không,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Vô ái song tính
+1397,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Có,bỏ,bỏ,không,không,không,bỏ,bỏ,Á ái toàn tính
+1398,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Không,bỏ,bỏ,không,không,không,bỏ,bỏ,Á ái toàn tính
+1399,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Có,bỏ,bỏ,không,không,không,bỏ,bỏ,Bán vô ái toàn tính
+1400,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Không,bỏ,bỏ,không,không,không,bỏ,bỏ,Vô ái toàn tính
+1401,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Có,Không,bỏ,bỏ,không,không,không,bỏ,bỏ,Vô ái toàn tính
+1402,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Có,Có,bỏ,bỏ,không,không,không,bỏ,bỏ,Bán vô ái toàn  tính
+1403,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Không,Bỏ,Bỏ,bỏ,bỏ,Có,Có,Có,Tất cả các giới,Có,Vô ái toàn tính (mù giới)
+1404,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Không,Bỏ,Bỏ,bỏ,bỏ,Có,Có,Có,Tất cả các giới,Không,Vô ái toàn tính (không mù giới)
+1405,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Không,Bỏ,Bỏ,bỏ,bỏ,Có,Có,Có,Nhiều hơn hai giới,Bỏ,Vô ái đa tính
+1406,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Không,Bỏ,Bỏ,bỏ,bỏ,không,bỏ,bỏ ,bỏ,bỏ,Vô ái toàn tính
+1407,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Có,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Á ái toàn tính (mù giới)
+1408,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Có,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Á ái toàn tính (không mù giới)
+1409,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Có,bỏ,bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Á ái đa tính
+1410,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Không,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Á ái toàn tính (mù giới)
+1411,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Không,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Á ái toàn tính (không mù giới)
+1412,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không,Không,bỏ,bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Á ái đa tính
+1413,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Có,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Bán vô ái toàn tính (mù giới)
+1414,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Có,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Bán vô ái toàn tính (không mù giới)
+1415,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Có,bỏ,bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Bán vô ái đa tính
+1416,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Không,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Vô ái toàn tính (mù giới)
+1417,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Không,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Vô ái toàn tính (không mù giới)
+1418,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Không hẳn,Không,bỏ,bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Vô ái đa tính
+1419,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Có,Không,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Vô ái toàn tính (mù giới)
+1420,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Có,Không,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Vô ái toàn tính (không mù giới)
+1421,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Có,Không,bỏ,bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Vô ái đa tính
+1422,liên giới tính,Nam,Không,Nhiều hơn hai giới ,Vô ái toàn tính,Có,Có,Có,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Bán vô ái toàn tính (mù giới)
+1423,liên giới tính,Nam,Nữ,Không ,Dị ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Không,Có,bỏ,bỏ,Dị ái á tính
+1424,liên giới tính,Nam,Nữ,Không ,Dị ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Không,Không,bỏ,bỏ,Dị ái á tính
+1425,liên giới tính,Nam,Nữ,Không ,Dị ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Không hẳn,Có,bỏ,bỏ,Dị ái bán vô tính
+1426,liên giới tính,Nam,Nữ,Không ,Dị ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Không hẳn,Không,bỏ,bỏ,Dị ái vô tính
+1427,liên giới tính,Nam,Nữ,Không ,Dị ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Có,Không,bỏ,bỏ,Dị ái vô tính
+1428,liên giới tính,Nam,Nữ,Không ,Dị ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Có,Có,bỏ,bỏ,Dị ái bán vô tính
+1429,liên giới tính,Nam,Nữ,Không ,Dị ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Không,Bỏ,bỏ ,bỏ,bỏ,Dị ái vô tính
+1430,liên giới tính,Nam,Nam,Không ,Đồng ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Không,Có,bỏ,bỏ,Đồng ái á tính
+1431,liên giới tính,Nam,Nam,Không ,Đồng ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Không,Không,bỏ,bỏ,Đồng ái ái á tính
+1432,liên giới tính,Nam,Nam,Không ,Đồng ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Không hẳn,Có,bỏ,bỏ,Đồng ái bán vô tính
+1433,liên giới tính,Nam,Nam,Không ,Đồng ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Không hẳn,Không,bỏ,bỏ,Đồng ái vô tính
+1434,liên giới tính,Nam,Nam,Không ,Đồng ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Có,Không,bỏ,bỏ,Đồng ái vô tính
+1435,liên giới tính,Nam,Nam,Không ,Đồng ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Có,Có,bỏ,bỏ,Đồng ái bán vô tính
+1436,liên giới tính,Nam,Nam,Không ,Đồng ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Không,Bỏ,bỏ ,bỏ,bỏ,Đồng ái vô tính
+1437,liên giới tính,Nam,Nam và Nữ,Không ,Song ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Không,Có,bỏ,bỏ,Song ái á tính
+1438,liên giới tính,Nam,Nam và Nữ,Không ,Song ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Không,Không,bỏ,bỏ,Song ái ái á tính
+1439,liên giới tính,Nam,Nam và Nữ,Không ,Song ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Không hẳn,Có,bỏ,bỏ,Song ái bán vô tính
+1440,liên giới tính,Nam,Nam và Nữ,Không ,Song ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Không hẳn,Không,bỏ,bỏ,Song ái vô tính
+1441,liên giới tính,Nam,Nam và Nữ,Không ,Song ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Có,Không,bỏ,bỏ,Song ái vô tính
+1442,liên giới tính,Nam,Nam và Nữ,Không ,Song ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Có,Có,bỏ,bỏ,Song ái bán vô tính
+1443,liên giới tính,Nam,Nam và Nữ,Không ,Song ái vô tính,bỏ,bỏ,bỏ,bỏ,bỏ,Không,Bỏ,bỏ ,bỏ,bỏ,Song ái vô tính
+1444,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,bỏ,bỏ,bỏ,bỏ,Có,Không,Có,bỏ,bỏ,Toàn ái á tính
+1445,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,bỏ,bỏ,bỏ,bỏ,Có,Không,Không,bỏ,bỏ,Toàn ái ái á tính
+1446,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,bỏ,bỏ,bỏ,bỏ,Có,Không hẳn,Có,bỏ,bỏ,Toàn ái bán vô tính
+1447,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,bỏ,bỏ,bỏ,bỏ,Có,Không hẳn,Không,bỏ,bỏ,Toàn ái vô tính
+1448,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,bỏ,bỏ,bỏ,bỏ,Có,Có,Không,bỏ,bỏ,Toàn ái vô tính
+1449,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,bỏ,bỏ,bỏ,bỏ,Có,Có,Có,bỏ,bỏ,Toàn ái bán vô tính
+1450,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Không,bỏ,bỏ,bỏ,bỏ,Không,Bỏ,bỏ ,bỏ,bỏ,Toàn ái vô tính
+1451,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Có,Không,,,bỏ,bỏ,Toàn ái (mù giới) vô tính
+1452,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Không,Không,,,bỏ,bỏ,Toàn ái (không mù giới) vô tính
+1453,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Không,,,bỏ,bỏ,Đa ái vô tính
+1454,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Có,Có,Không,Có,bỏ,bỏ,Toàn ái (mù giới) á tính
+1455,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Có,Có,Không,Không,bỏ,bỏ,Toàn ái (mù giới) á tính
+1456,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Có,Có,Không hẳn,Có,bỏ,bỏ,Toàn ái (mù giới) bán vô tính
+1457,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Có,Có,Không hẳn,Không,bỏ,bỏ,Toàn ái (mù giới) vô tính
+1458,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Có,Có,Có,Không,bỏ,bỏ,Toàn ái (mù giới) vô tính
+1459,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Có,Có,Có,Có,bỏ,bỏ,Toàn ái (mù giới) bán vô tính
+1460,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Không,Có,Không,Có,bỏ,bỏ,Toàn ái (không mù giới) á tính
+1461,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Không,Có,Không,Không,bỏ,bỏ,Toàn ái (không mù giới) á tính
+1462,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Không,Có,Không hẳn,Có,bỏ,bỏ,Toàn ái (không mù giới) bán vô tính
+1463,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Không,Có,Không hẳn,Không,bỏ,bỏ,Toàn ái (không mù giới) vô tính
+1464,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Không,Có,Có,Không,bỏ,bỏ,Toàn ái (không mù giới) vô tính
+1465,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Tất cả các giới,Không,Có,Có,Có,bỏ,bỏ,Toàn ái (không mù giới) bán vô tính
+1466,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Có,Không,Có,bỏ,bỏ,Đa ái á tính
+1467,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Có,Không,Không,bỏ,bỏ,Đa ái á tính
+1468,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Có,Không hẳn,Có,bỏ,bỏ,Đa ái bán vô tính
+1469,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Có,Không hẳn,Không,bỏ,bỏ,Đa ái vô tính
+1470,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Có,Có,Không,bỏ,bỏ,Đa ái vô tính
+1471,liên giới tính,Nam,Nhiều hơn hai giới ,Không ,Toàn ái vô tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Có,Có,Có,bỏ,bỏ,Đa ái bán vô tính
+1472,liên giới tính,Nam,Nữ,Nữ,Dị tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Dị tính
+1473,liên giới tính,Nam,Nữ,Nam,Dị ái đồng tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Dị ái đồng tính
+1474,liên giới tính,Nam,Nữ,Nam và Nữ,Dị ái song tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Dị ái song tính
+1475,liên giới tính,Nam,Nữ,Nam và giới khác (2 giới),Dị ái song tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Dị ái song tính
+1476,liên giới tính,Nam,Nữ,Nữ và giới khác (2 giới),Dị ái song tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Dị ái song tính
+1477,liên giới tính,Nam,Nữ,Nhiều hơn hai giới ,Dị ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,bỏ,bỏ,Tất cả các giới,Có,Dị ái toàn tính (mù giới)
+1478,liên giới tính,Nam,Nữ,Nhiều hơn hai giới ,Dị ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,bỏ,bỏ,Tất cả các giới,Không,Dị ái toàn tính (không mù giới)
+1479,liên giới tính,Nam,Nữ,Nhiều hơn hai giới ,Dị ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Dị ái đa tính
+1480,liên giới tính,Nam,Nữ,Nhiều hơn hai giới ,Dị ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Không,bỏ,bỏ,bỏ,bỏ,Dị ái toàn tính
+1481,liên giới tính,Nam,Nam,Nữ,Đống ái dị tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Đống ái dị tính
+1482,liên giới tính,Nam,Nam,Nam,Đồng tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Đồng tính
+1483,liên giới tính,toàn,Nam,Nam và Nữ,Đồng ái song tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Đồng ái song tính
+1484,liên giới tính,Nam,Nam,Nam và giới khác (2 giới),Đồng ái song tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Đồng ái song tính
+1485,liên giới tính,Nam,Nam,Nữ và giới khác (2 giới),Đồng ái song tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Đồng ái song tính
+1486,liên giới tính,Nam,Nam,Nhiều hơn hai giới ,Đồng ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,có,bỏ,bỏ,Tất cả các giới,Có,Đồng ái toàn tính (mù giới)
+1487,liên giới tính,Nam,Nam,Nhiều hơn hai giới ,Đồng ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,có,bỏ,bỏ,Tất cả các giới,Không,Đồng ái toàn tính (không mù giới)
+1488,liên giới tính,Nam,Nam,Nhiều hơn hai giới ,Đồng ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Đồng ái đa tính
+1489,liên giới tính,Nam,Nam,Nhiều hơn hai giới ,Đồng ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Không,bỏ,bỏ,bỏ,bỏ,Đồng ái toàn tính (không mù giới)
+1490,liên giới tính,Nam,Nam và Nữ,Nữ,Song ái dị tính,bỏ,bỏ,bỏ,bỏ,bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song ái dị tính
+1491,liên giới tính,Nam,Nam và Nữ,Nam,Song ái đồng tính,bỏ,bỏ,bỏ,bỏ,bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song ái đồng tính
+1492,liên giới tính,Nam,Nam và Nữ,Nam và Nữ,Song tính,bỏ,bỏ,bỏ,bỏ,bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song tính
+1493,liên giới tính,Nam,Nam và Nữ,Nam và giới khác (2 giới),Song tính,bỏ,bỏ,bỏ,bỏ,bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song tính
+1494,liên giới tính,Nam,Nam và Nữ,Nữ và giới khác (2 giới),Song tính,bỏ,bỏ,bỏ,bỏ,bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Bỏ,Song tính
+1495,liên giới tính,Nam,Nam và Nữ,Nhiều hơn hai giới ,Song ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Có,Song ái toàn tính (mù giới)
+1496,liên giới tính,Nam,Nam và Nữ,Nhiều hơn hai giới ,Song ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Bỏ,Bỏ,Tất cả các giới,Không,Song ái toàn tính (không mù giới)
+1497,liên giới tính,Nam,Nam và Nữ,Nhiều hơn hai giới ,Song ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Bỏ,Bỏ,Nhiều hơn hai giới,Bỏ,Đa ái toàn tính
+1498,liên giới tính,Nam,Nam và Nữ,Nhiều hơn hai giới ,Song ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Không,bỏ,bỏ,bỏ,bỏ,Song ái toàn tính
+1499,liên giới tính,Nam,Nam và giới khác (2 giới),Nữ,Song ái dị tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Song ái dị tính
+1500,liên giới tính,Nam,Nam và giới khác (2 giới),Nam,Song ái đồng tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Song ái đồng tính
+1501,liên giới tính,Nam,Nam và giới khác (2 giới),Nam và Nữ,Song tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Song tính
+1502,liên giới tính,Nam,Nam và giới khác (2 giới),Nam và giới khác (2 giới),Song tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Song tính
+1503,liên giới tính,Nam,Nam và giới khác (2 giới),Nữ và giới khác (2 giới),Song tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Song tính
+1504,liên giới tính,Nam,Nam và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Tất cả các giới,Có,bỏ,bỏ,Song ái toàn tính (mù giới)
+1505,liên giới tính,Nam,Nam và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Tất cả các giới,Không,bỏ,bỏ,Song ái toàn tính (không mù giới)
+1506,liên giới tính,Nam,Nam và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Nhiều hơn hai giới,Bỏ,bỏ,bỏ,Đa ái toàn tính
+1507,liên giới tính,Nam,Nam và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Không,bỏ,bỏ,bỏ,bỏ,Song ái toàn tính
+1508,liên giới tính,Nam,Nữ và giới khác (2 giới),Nữ,Song ái dị tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Song ái dị tính
+1509,liên giới tính,Nam,Nữ và giới khác (2 giới),Nam,Song ái đồng tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Song ái đồng tính
+1510,liên giới tính,Nam,Nữ và giới khác (2 giới),Nam và Nữ,Song tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Song tính
+1511,liên giới tính,Nam,Nữ và giới khác (2 giới),Nam và giới khác (2 giới),Song tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Song tính
+1512,liên giới tính,Nam,Nữ và giới khác (2 giới),Nữ và giới khác (2 giới),Song tính,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,bỏ,Song tính
+1513,liên giới tính,Nam,Nữ và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Tất cả các giới,Có,bỏ,bỏ,Song ái toàn tính (mù giới)
+1514,liên giới tính,Nam,Nữ và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Tất cả các giới,Không,bỏ,bỏ,Song ái toàn tính (không mù giới)
+1515,liên giới tính,Nam,Nữ và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Có,Nhiều hơn hai giới,Bỏ,bỏ,bỏ,Đa ái toàn tính
+1516,liên giới tính,Nam,Nữ và giới khác (2 giới),Nhiều hơn hai giới ,Song ái toàn tính,bỏ,bỏ,bỏ,bỏ,bỏ,Không,bỏ,bỏ,bỏ,bỏ,Song ái toàn tính
+1517,liên giới tính,Nam,Nhiều hơn hai giới ,Nữ,Toàn ái dị tính,Có,bỏ,bỏ,Tất cả các giới,Có,Không,bỏ,bỏ,bỏ,bỏ,Toàn ái (mù giới) dị tính
+1518,liên giới tính,Nam,Nhiều hơn hai giới ,Nữ,Toàn ái dị tính,Có,bỏ,bỏ,Tất cả các giới,Không,Không,bỏ,bỏ,bỏ,bỏ,Toàn ái (không mù giới) dị tính
+1519,liên giới tính,Nam,Nhiều hơn hai giới ,Nữ,Toàn ái dị tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Không,bỏ,bỏ,bỏ,bỏ,Đa ái dị tính
+1520,liên giới tính,Nam,Nhiều hơn hai giới ,Nữ,Toàn ái dị tính,Không,bỏ,bỏ,bỏ,Bỏ,không,bỏ,bỏ,bỏ,bỏ,Toàn ái dị tính
+1521,liên giới tính,Nam,Nhiều hơn hai giới ,Nam,Toàn ái đồng tính,Có,bỏ,bỏ,Tất cả các giới,Có,không,bỏ,bỏ,bỏ,bỏ,Toàn ái (mù giới) đồng tính
+1522,liên giới tính,Nam,Nhiều hơn hai giới ,Nam,Toàn ái đồng tính,Có,bỏ,bỏ,Tất cả các giới,Không,không,bỏ,bỏ,bỏ,bỏ,Toàn ái (không mù giới) đồng tính
+1523,liên giới tính,Nam,Nhiều hơn hai giới ,Nam,Toàn ái đồng tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,không,bỏ,bỏ,bỏ,bỏ,Đa ái đồng tính
+1524,liên giới tính,Nam,Nhiều hơn hai giới ,Nam,Toàn ái đồng tính,Không,bỏ,bỏ,bỏ,Bỏ,không,bỏ,bỏ,bỏ,bỏ,Toàn ái đồng tính
+1525,liên giới tính,Nam,Nhiều hơn hai giới ,Nam và Nữ,Toàn ái song tính,Có,bỏ,bỏ,Tất cả các giới,Có,không,bỏ,bỏ,bỏ,bỏ,Toàn ái (mù giới) song tính
+1526,liên giới tính,Nam,Nhiều hơn hai giới ,Nam và Nữ,Toàn ái song tính,Có ,bỏ,bỏ,Tất cả các giới,Không,không,bỏ,bỏ,bỏ,bỏ,Toàn ái (không mù giới) song tính
+1527,liên giới tính,Nam,Nhiều hơn hai giới ,Nam và Nữ,Toàn ái song tính,có ,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,không,bỏ,bỏ,bỏ,bỏ,Đa ái song tính
+1528,liên giới tính,Nam,Nhiều hơn hai giới ,Nam và giới khác (2 giới),Toàn ái song tính,Không,bỏ,bỏ,bỏ,Bỏ,không,bỏ,bỏ,bỏ,bỏ,Toàn ái song tính
+1529,liên giới tính,Nam,Nhiều hơn hai giới ,Nam và giới khác (2 giới),Toàn ái song tính,Có,bỏ,bỏ,Tất cả các giới,Có,không,bỏ,bỏ,bỏ,bỏ,Toàn ái (mù giới) song tính
+1530,liên giới tính,Nam,Nhiều hơn hai giới ,Nam và giới khác (2 giới),Toàn ái song tính,Có,bỏ,bỏ,Tất cả các giới,Không,không,bỏ,bỏ,bỏ,bỏ,Toàn ái (không mù giới) song tính
+1531,liên giới tính,Nam,Nhiều hơn hai giới ,Nam và giới khác (2 giới),Toàn ái song tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,không,bỏ,bỏ,bỏ,bỏ,Đa ái song tính
+1532,liên giới tính,Nam,Nhiều hơn hai giới ,Nữ và giới khác (2 giới),Toàn ái song tính,Không,bỏ,bỏ,bỏ,Bỏ,không,bỏ,bỏ,bỏ,bỏ,Toàn ái song tính
+1533,liên giới tính,Nam,Nhiều hơn hai giới ,Nữ và giới khác (2 giới),Toàn ái song tính,Có ,bỏ,bỏ,Tất cả các giới,Có,không,bỏ,bỏ,bỏ,bỏ,Toàn ái (mù giới) song tính
+1534,liên giới tính,Nam,Nhiều hơn hai giới ,Nữ và giới khác (2 giới),Toàn ái song tính,Có ,bỏ,bỏ,Tất cả các giới,Không,không,bỏ,bỏ,bỏ,bỏ,Toàn ái (không mù giới) song tính
+1535,liên giới tính,Nam,Nhiều hơn hai giới ,Nữ và giới khác (2 giới),Toàn ái song tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,không,bỏ,bỏ,bỏ,bỏ,Đa ái song tính
+1536,liên giới tính,Nam,Nhiều hơn hai giới ,Nữ và giới khác (2 giới),Toàn ái song tính,Không,bỏ,bỏ,bỏ,Bỏ,không,bỏ,bỏ,bỏ,bỏ,Toàn ái song tính
+1537,liên giới tính,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có ,bỏ,bỏ,Tất cả các giới,Có,Có,bỏ,bỏ,Tất cả các giới,Có,Toàn tính (mù giới)
+1538,liên giới tính,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có ,bỏ,bỏ,Tất cả các giới,Có,Có,bỏ,bỏ,Tất cả các giới,Không,Toàn ái (mù giới) toàn tính (không mù giới)
+1539,liên giới tính,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có,bỏ,bỏ,Tất cả các giới,Có,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Toàn ái đa tính
+1540,liên giới tính,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có ,bỏ,bỏ,Tất cả các giới,Không,Có,bỏ,bỏ,Tất cả các giới,Có,Toàn ái  (không mù giới) toàn tính (mù giới)
+1541,liên giới tính,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có,bỏ,bỏ,Tất cả các giới,Không,Có,bỏ,bỏ,Tất cả các giới,Không,Toàn ái toàn tính (không mù giới)
+1542,liên giới tính,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Không,bỏ,bỏ,Tất cả các giới,Không,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Toàn ái (không mù giới) đa tính
+1543,liên giới tính,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có ,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Có,bỏ,bỏ,Tất cả các giới,Có,Đa ái toàn tính (mù giới)
+1544,liên giới tính,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có ,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Có,bỏ,bỏ,Tất cả các giới,Không,Đa ái toàn tính (không mù giới)
+1545,liên giới tính,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Đa tính
+1546,liên giới tính,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Không,bỏ,bỏ,bỏ,bỏ,không,bỏ,bỏ,bỏ,bỏ,Toàn tính
+1547,liên giới tính,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có,bỏ,bỏ,Tất cả các giới,Có,Không,bỏ,bỏ,bỏ,bỏ,Toán ái (mù giới) toàn tính
+1548,liên giới tính,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có,bỏ,bỏ,Tất cả các giới,Không,Không,bỏ,bỏ,bỏ,bỏ,Toàn ái (không mù giới) toàn tính
+1549,liên giới tính,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Không,bỏ,bỏ,bỏ,bỏ,Đa ái toàn tính
+1550,liên giới tính,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Không,bỏ,bỏ,bỏ,bỏ,Có,bỏ,bỏ,Tất cả các giới,Không,Toàn ái toàn tính (không mù giới)
+1551,liên giới tính,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Không,bỏ,bỏ,bỏ,bỏ,Có,bỏ,bỏ,Nhiều hơn hai giới,Bỏ,Toàn ái đa tính
+1552,liên giới tính,Nam,Nhiều hơn hai giới ,Nhiều hơn hai giới ,Toàn tính,Không,bỏ,bỏ,bỏ,bỏ,Có,bỏ,bỏ,Tất cả các giới,Có,Toàn ái toàn tính (mù giới)
